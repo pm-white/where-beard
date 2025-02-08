@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import googlemaps
+import json
 
 YEAR = "2025"
 URL = "https://www.jamesbeard.org/blog/the-2025-james-beard-award-semifinalists#"
@@ -29,7 +30,7 @@ def get_lat_lon(place: str) -> tuple[float, float]:
     )
 
 
-for finalist in soup.find_all(["h4", "li"])[:5]:
+for finalist in soup.find_all(["h4", "li"]):
     if finalist.name == "h4":
         # award category
         new_category = re.sub(r"\s+(p|P)resented.*", "", finalist.text.strip())
@@ -52,8 +53,8 @@ for finalist in soup.find_all(["h4", "li"])[:5]:
             pass
         else:
             # get coordinates
-            # place = restaurant + ", " + city + ", " + state + ", " + "USA"
-            # lat, lon = get_lat_lon(place)
+            place = restaurant + ", " + city + ", " + state + ", " + "USA"
+            lat, lon = get_lat_lon(place)
 
             # add structured info to list
             finalists.append(
@@ -64,12 +65,10 @@ for finalist in soup.find_all(["h4", "li"])[:5]:
                     "city": city,
                     "state": state,
                     "person": person,
-                    # "lat": lat,
-                    # "lon": lon,
+                    "lat": lat,
+                    "lon": lon,
                 }
             )
 
-for i in finalists:
-    for k, v in i.items():
-        print(k, v)
-    print()
+with open(f"./data/{YEAR}_semifinalists.json", "w") as f:
+    json.dump(finalists, f, indent=4)

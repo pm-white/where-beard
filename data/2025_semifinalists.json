@@ -1,0 +1,4922 @@
+[
+    {
+        "restaurant": "Honey Road and Gray Jay",
+        "year": "2025",
+        "category": "Outstanding Restaurateur",
+        "city": "Burlington",
+        "state": "VT",
+        "person": "Cara Chigazola-Tobin and Allison Gibson",
+        "lat": 44.48023209999999,
+        "lon": -73.21350389999999
+    },
+    {
+        "restaurant": "Saffron Valley Restaurants",
+        "year": "2025",
+        "category": "Outstanding Restaurateur",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "person": "Lavanya Mahate",
+        "lat": 40.7607793,
+        "lon": -111.8910474
+    },
+    {
+        "restaurant": "McNellie's Group (McNellie's and others)",
+        "year": "2025",
+        "category": "Outstanding Restaurateur",
+        "city": "Tulsa and Oklahoma City",
+        "state": "OK",
+        "person": "Elliot Nelson",
+        "lat": 35.4675602,
+        "lon": -97.5164276
+    },
+    {
+        "restaurant": "MIDA",
+        "year": "2025",
+        "category": "Outstanding Restaurateur",
+        "city": "Boston",
+        "state": "MA",
+        "person": "Douglass Williams",
+        "lat": 42.3390552,
+        "lon": -71.0804615
+    },
+    {
+        "restaurant": "Kh\u00e2luna",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Minneapolis",
+        "state": "MN",
+        "person": "Ann Ahmed",
+        "lat": 44.9301684,
+        "lon": -93.2885723
+    },
+    {
+        "restaurant": "FarmBar",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Tulsa",
+        "state": "OK",
+        "person": "Lisa Becklund",
+        "lat": 36.1364103,
+        "lon": -95.98527480000001
+    },
+    {
+        "restaurant": "Centrolina",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "Amy Brandwein",
+        "lat": 38.9002695,
+        "lon": -77.0255203
+    },
+    {
+        "restaurant": "Canje",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Austin",
+        "state": "TX",
+        "person": "Tavel Bristol-Joseph",
+        "lat": 30.2616642,
+        "lon": -97.72142710000001
+    },
+    {
+        "restaurant": "Holbox",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "Gilberto Cetina",
+        "lat": 34.017356,
+        "lon": -118.278405
+    },
+    {
+        "restaurant": "The Market Place",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Asheville",
+        "state": "NC",
+        "person": "William Dissen",
+        "lat": 35.594624,
+        "lon": -82.555279
+    },
+    {
+        "restaurant": "Acquerello",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "Suzette Gresham-Tognetti",
+        "lat": 37.7915966,
+        "lon": -122.421467
+    },
+    {
+        "restaurant": "Vianda",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "San Juan",
+        "state": "PR",
+        "person": "Francis Guzm\u00e1n",
+        "lat": 18.4479093,
+        "lon": -66.0704952
+    },
+    {
+        "restaurant": "Burnt Bean Co.",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Seguin",
+        "state": "TX",
+        "person": "David Kirkland and Ernest Servantes",
+        "lat": 29.568492,
+        "lon": -97.9647622
+    },
+    {
+        "restaurant": "Gabriel Kreuther",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "New York",
+        "state": "NY",
+        "person": "Gabriel Kreuther",
+        "lat": 40.7545381,
+        "lon": -73.98250260000002
+    },
+    {
+        "restaurant": "Amilinda",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Milwaukee",
+        "state": "WI",
+        "person": "Gregory Le\u00f3n",
+        "lat": 43.0385694,
+        "lon": -87.9073399
+    },
+    {
+        "restaurant": "Lovely's Fifty Fifty",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Portland",
+        "state": "OR",
+        "person": "Sarah Minnick",
+        "lat": 45.5528597,
+        "lon": -122.6758503
+    },
+    {
+        "restaurant": "Saltbox Seafood Joint",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Durham",
+        "state": "NC",
+        "person": "Ricky Moore",
+        "lat": 35.9740841,
+        "lon": -78.92917469999999
+    },
+    {
+        "restaurant": "Bin 707 Foodbar",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Grand Junction",
+        "state": "CO",
+        "person": "Josh Niernberg",
+        "lat": 39.0675964,
+        "lon": -108.5658428
+    },
+    {
+        "restaurant": "Sarma",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Somerville",
+        "state": "MA",
+        "person": "Cassie Piuma",
+        "lat": 42.3882623,
+        "lon": -71.0954622
+    },
+    {
+        "restaurant": "Orujo Taller de Gastronom\u00eda",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "San Juan",
+        "state": "PR",
+        "person": "Carlos Portela",
+        "lat": 18.4542797,
+        "lon": -66.08019879999999
+    },
+    {
+        "restaurant": "Le Pigeon",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Portland",
+        "state": "OR",
+        "person": "Gabriel Rucker",
+        "lat": 45.5227311,
+        "lon": -122.6578134
+    },
+    {
+        "restaurant": "Vernick Fish",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "Greg Vernick",
+        "lat": 39.95528789999999,
+        "lon": -75.1707661
+    },
+    {
+        "restaurant": "Boka",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Lee Wolen",
+        "lat": 41.9135551,
+        "lon": -87.6480103
+    },
+    {
+        "restaurant": "Jungsik",
+        "year": "2025",
+        "category": "Outstanding Chef",
+        "city": "New York",
+        "state": "NY",
+        "person": "Jungsik Yim",
+        "lat": 40.7188267,
+        "lon": -74.00907509999999
+    },
+    {
+        "restaurant": "Benu",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "",
+        "lat": 37.7855007,
+        "lon": -122.3990397
+    },
+    {
+        "restaurant": "Chubby Fish",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Charleston",
+        "state": "SC",
+        "person": "",
+        "lat": 32.7931696,
+        "lon": -79.9442552
+    },
+    {
+        "restaurant": "Coquine",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Portland",
+        "state": "OR",
+        "person": "",
+        "lat": 45.5170361,
+        "lon": -122.5924019
+    },
+    {
+        "restaurant": "The Dabney",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "",
+        "lat": 38.9063446,
+        "lon": -77.0245248
+    },
+    {
+        "restaurant": "Don Angie",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "New York",
+        "state": "NY",
+        "person": "",
+        "lat": 40.7378037,
+        "lon": -74.00209389999999
+    },
+    {
+        "restaurant": "ELEMI",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "El Paso",
+        "state": "TX",
+        "person": "",
+        "lat": 31.6987165,
+        "lon": -106.2221081
+    },
+    {
+        "restaurant": "The Four Horsemen",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Brooklyn",
+        "state": "NY",
+        "person": "",
+        "lat": 40.7130584,
+        "lon": -73.9573216
+    },
+    {
+        "restaurant": "Frasca Food and Wine",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Boulder",
+        "state": "CO",
+        "person": "",
+        "lat": 40.0192049,
+        "lon": -105.2724745
+    },
+    {
+        "restaurant": "Galit",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "",
+        "lat": 41.92629609999999,
+        "lon": -87.6494903
+    },
+    {
+        "restaurant": "Georges French Bistro",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Wichita",
+        "state": "KS",
+        "person": "",
+        "lat": 37.6941963,
+        "lon": -97.28234069999999
+    },
+    {
+        "restaurant": "Ghee Indian Kitchen",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Miami",
+        "state": "FL",
+        "person": "",
+        "lat": 25.7692653,
+        "lon": -80.2227807
+    },
+    {
+        "restaurant": "GW Fins",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "New Orleans",
+        "state": "LA",
+        "person": "",
+        "lat": 29.9555463,
+        "lon": -90.06883859999999
+    },
+    {
+        "restaurant": "Havana",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Bar Harbor",
+        "state": "ME",
+        "person": "",
+        "lat": 44.3841514,
+        "lon": -68.20319649999999
+    },
+    {
+        "restaurant": "Kalaya",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "",
+        "lat": 39.975649,
+        "lon": -75.133089
+    },
+    {
+        "restaurant": "Kimball House",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Decatur",
+        "state": "GA",
+        "person": "",
+        "lat": 33.771596,
+        "lon": -84.29228189999999
+    },
+    {
+        "restaurant": "Nonesuch",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "person": "",
+        "lat": 35.475309,
+        "lon": -97.5194138
+    },
+    {
+        "restaurant": "Oberlin",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Providence",
+        "state": "RI",
+        "person": "",
+        "lat": 41.8225031,
+        "lon": -71.41307979999999
+    },
+    {
+        "restaurant": "Pasjoli",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Santa Monica",
+        "state": "CA",
+        "person": "",
+        "lat": 34.0001931,
+        "lon": -118.4820912
+    },
+    {
+        "restaurant": "Selden Standard",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Detroit",
+        "state": "MI",
+        "person": "",
+        "lat": 42.3478001,
+        "lon": -83.06501779999999
+    },
+    {
+        "restaurant": "Spoon and Stable",
+        "year": "2025",
+        "category": "Outstanding Restaurant",
+        "city": "Minneapolis",
+        "state": "MN",
+        "person": "",
+        "lat": 44.9855244,
+        "lon": -93.2694875
+    },
+    {
+        "restaurant": "The Aperture",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Cincinnati",
+        "state": "OH",
+        "person": "Jordan Anthony-Brown",
+        "lat": 39.1260895,
+        "lon": -84.4900728
+    },
+    {
+        "restaurant": "Damian",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "Jesus \"Chuy\" Cervantes",
+        "lat": 34.033466,
+        "lon": -118.2289512
+    },
+    {
+        "restaurant": "Tamasha Modern Indian",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Raleigh",
+        "state": "NC",
+        "person": "Bhavin Chhatwani",
+        "lat": 35.8358919,
+        "lon": -78.638385
+    },
+    {
+        "restaurant": "Hiraya",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "Paolo Dungca",
+        "lat": 38.9003324,
+        "lon": -76.98855360000002
+    },
+    {
+        "restaurant": "Fish & Whistle",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Biddeford",
+        "state": "ME",
+        "person": "Jason Eckerson and Kate Hamm",
+        "lat": 43.49417589999999,
+        "lon": -70.4587739
+    },
+    {
+        "restaurant": "Time & Tide",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "New York",
+        "state": "NY",
+        "person": "Danny Garcia",
+        "lat": 40.7817862,
+        "lon": -73.9477661
+    },
+    {
+        "restaurant": "Acru",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "New York",
+        "state": "NY",
+        "person": "Daniel Garwood",
+        "lat": 40.7287691,
+        "lon": -74.0016571
+    },
+    {
+        "restaurant": "Lagniappe Bakehouse",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "New Orleans",
+        "state": "LA",
+        "person": "Kaitlin Guerin",
+        "lat": 29.9395516,
+        "lon": -90.0794492
+    },
+    {
+        "restaurant": "Hadeem",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "Spencer Horovitz",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    {
+        "restaurant": "Burmalicious",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Houston",
+        "state": "TX",
+        "person": "Suu Khin",
+        "lat": 29.7600771,
+        "lon": -95.37011079999999
+    },
+    {
+        "restaurant": "Mawn",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "Phila Lorn",
+        "lat": 39.9399581,
+        "lon": -75.1578997
+    },
+    {
+        "restaurant": "NIMKI",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Providence",
+        "state": "RI",
+        "person": "Nikhil Naiker",
+        "lat": 41.8209534,
+        "lon": -71.4320479
+    },
+    {
+        "restaurant": "S\u1eafp S\u1eeda",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Denver",
+        "state": "CO",
+        "person": "Anna Nguyen and Ni Nguyen",
+        "lat": 39.7397941,
+        "lon": -104.9566365
+    },
+    {
+        "restaurant": "Bicyclette Cookshop",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Naples",
+        "state": "FL",
+        "person": "Kayla Pfeiffer",
+        "lat": 26.2522369,
+        "lon": -81.8053256
+    },
+    {
+        "restaurant": "Feld",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Jacob Potashnick",
+        "lat": 41.8961134,
+        "lon": -87.677857
+    },
+    {
+        "restaurant": "Lehua",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Hilo",
+        "state": "HI",
+        "person": "Keoni Regidor",
+        "lat": 19.7303617,
+        "lon": -155.0907052
+    },
+    {
+        "restaurant": "Vicia",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "St Louis",
+        "state": "MO",
+        "person": "Jane Sacro Chatham",
+        "lat": 38.6357441,
+        "lon": -90.2520581
+    },
+    {
+        "restaurant": "BibiSol",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "person": "Marcela Salas",
+        "lat": 43.5453883,
+        "lon": -96.7269817
+    },
+    {
+        "restaurant": "Chilte",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Phoenix",
+        "state": "AZ",
+        "person": "Lawrence \"LT\" Smith",
+        "lat": 33.45281200000001,
+        "lon": -112.0845473
+    },
+    {
+        "restaurant": "Georgie",
+        "year": "2025",
+        "category": "Emerging Chef",
+        "city": "Dallas",
+        "state": "TX",
+        "person": "RJ Yoakum",
+        "lat": 32.8224988,
+        "lon": -96.7907815
+    },
+    {
+        "restaurant": "Alma Fonda Fina",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Denver",
+        "state": "CO",
+        "person": "",
+        "lat": 39.7580312,
+        "lon": -105.0116729
+    },
+    {
+        "restaurant": "Atoma",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Seattle",
+        "state": "WA",
+        "person": "",
+        "lat": 47.6611903,
+        "lon": -122.3400915
+    },
+    {
+        "restaurant": "Bad Idea",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Nashville",
+        "state": "TN",
+        "person": "",
+        "lat": 36.1758733,
+        "lon": -86.75038579999999
+    },
+    {
+        "restaurant": "Bridgetown Roti",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "",
+        "lat": 34.0870006,
+        "lon": -118.29152
+    },
+    {
+        "restaurant": "B\u00fbcheron",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Minneapolis",
+        "state": "MN",
+        "person": "",
+        "lat": 44.9251922,
+        "lon": -93.27768560000001
+    },
+    {
+        "restaurant": "Caf\u00e9 Carmellini",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "New York",
+        "state": "NY",
+        "person": "",
+        "lat": 40.744913,
+        "lon": -73.9875253
+    },
+    {
+        "restaurant": "Cari\u00f1o",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "",
+        "lat": 41.966924,
+        "lon": -87.6587572
+    },
+    {
+        "restaurant": "Casa Balam",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Decatur",
+        "state": "GA",
+        "person": "",
+        "lat": 33.7757456,
+        "lon": -84.29867650000001
+    },
+    {
+        "restaurant": "Corima",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "New York",
+        "state": "NY",
+        "person": "",
+        "lat": 40.7146783,
+        "lon": -73.9931228
+    },
+    {
+        "restaurant": "Ema",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Houston",
+        "state": "TX",
+        "person": "",
+        "lat": 29.8033162,
+        "lon": -95.3878642
+    },
+    {
+        "restaurant": "FamilyFriend",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Seattle",
+        "state": "WA",
+        "person": "",
+        "lat": 47.5735734,
+        "lon": -122.309043
+    },
+    {
+        "restaurant": "Fet-Fisk",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "person": "",
+        "lat": 40.4605056,
+        "lon": -79.9473453
+    },
+    {
+        "restaurant": "Figulina",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Raleigh",
+        "state": "NC",
+        "person": "",
+        "lat": 35.776317,
+        "lon": -78.644975
+    },
+    {
+        "restaurant": "Four Kings",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "",
+        "lat": 37.7940708,
+        "lon": -122.4051035
+    },
+    {
+        "restaurant": "Kisa",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "New York",
+        "state": "NY",
+        "person": "",
+        "lat": 40.7227487,
+        "lon": -73.98907530000001
+    },
+    {
+        "restaurant": "Lao\u2019d Bar",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Austin",
+        "state": "TX",
+        "person": "",
+        "lat": 30.2674918,
+        "lon": -97.6267242
+    },
+    {
+        "restaurant": "Le R\u00eave Restaurant & Raw Bar",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Sheridan",
+        "state": "WY",
+        "person": "",
+        "lat": 44.8009615,
+        "lon": -106.9555474
+    },
+    {
+        "restaurant": "LUNE",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Dennis Port",
+        "state": "MA",
+        "person": "",
+        "lat": 41.6667219,
+        "lon": -70.1267538
+    },
+    {
+        "restaurant": "M\u0101bo",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Dallas",
+        "state": "TX",
+        "person": "",
+        "lat": 32.8650201,
+        "lon": -96.8060497
+    },
+    {
+        "restaurant": "Maude & the Bear",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Staunton",
+        "state": "VA",
+        "person": "",
+        "lat": 38.1597765,
+        "lon": -79.06974319999999
+    },
+    {
+        "restaurant": "Mita",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "",
+        "lat": 38.9176531,
+        "lon": -77.0232205
+    },
+    {
+        "restaurant": "Noche",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Tulsa",
+        "state": "OK",
+        "person": "",
+        "lat": 36.1593173,
+        "lon": -95.9890293
+    },
+    {
+        "restaurant": "\u00d4mo by J\u00f4nt",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Winter Park",
+        "state": "FL",
+        "person": "",
+        "lat": 28.5950735,
+        "lon": -81.35047449999999
+    },
+    {
+        "restaurant": "Penny",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "New York",
+        "state": "NY",
+        "person": "",
+        "lat": 40.7308579,
+        "lon": -73.9896832
+    },
+    {
+        "restaurant": "Porgy's Seafood Market",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "New Orleans",
+        "state": "LA",
+        "person": "",
+        "lat": 29.9757718,
+        "lon": -90.09875
+    },
+    {
+        "restaurant": "Santo Arcadia",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Phoenix",
+        "state": "AZ",
+        "person": "",
+        "lat": 33.4879588,
+        "lon": -111.9860172
+    },
+    {
+        "restaurant": "Somaek",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Boston",
+        "state": "MA",
+        "person": "",
+        "lat": 42.3552498,
+        "lon": -71.0625555
+    },
+    {
+        "restaurant": "The Union",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Helena",
+        "state": "MT",
+        "person": "",
+        "lat": 46.5902702,
+        "lon": -112.0372064
+    },
+    {
+        "restaurant": "Vecino",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Detroit",
+        "state": "MI",
+        "person": "",
+        "lat": 42.34832979999999,
+        "lon": -83.06736649999999
+    },
+    {
+        "restaurant": "Vinai",
+        "year": "2025",
+        "category": "Best New Restaurant",
+        "city": "Minneapolis",
+        "state": "MN",
+        "person": "",
+        "lat": 45.001129,
+        "lon": -93.2664185
+    },
+    {
+        "restaurant": "17 Berkshire",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Memphis",
+        "state": "TN",
+        "person": "",
+        "lat": 35.1365351,
+        "lon": -89.99156010000002
+    },
+    {
+        "restaurant": "Atelier Ortega",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Jackson Hole",
+        "state": "WY",
+        "person": "",
+        "lat": 43.4724444,
+        "lon": -110.7821444
+    },
+    {
+        "restaurant": "Bellegarde Bakery",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "New Orleans",
+        "state": "LA",
+        "person": "",
+        "lat": 29.9590118,
+        "lon": -90.1210035
+    },
+    {
+        "restaurant": "Carissa's the Bakery",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Easthampton",
+        "state": "NY",
+        "person": "",
+        "lat": 40.9681176,
+        "lon": -72.1688814
+    },
+    {
+        "restaurant": "Coda",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Albuquerque",
+        "state": "NM",
+        "person": "",
+        "lat": 35.075113,
+        "lon": -106.5787446
+    },
+    {
+        "restaurant": "Dan The Baker",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Columbus",
+        "state": "OH",
+        "person": "",
+        "lat": 39.9709567,
+        "lon": -83.0417175
+    },
+    {
+        "restaurant": "Fan Fan Doughnuts",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Brooklyn",
+        "state": "NY",
+        "person": "",
+        "lat": 40.6890824,
+        "lon": -73.9570607
+    },
+    {
+        "restaurant": "Gusto Bread",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Long Beach",
+        "state": "CA",
+        "person": "",
+        "lat": 33.77161350000001,
+        "lon": -118.1598628
+    },
+    {
+        "restaurant": "JinJu Patisserie",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Portland",
+        "state": "OR",
+        "person": "",
+        "lat": 45.5529624,
+        "lon": -122.666962
+    },
+    {
+        "restaurant": "Koffeteria",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Houston",
+        "state": "TX",
+        "person": "",
+        "lat": 29.7498937,
+        "lon": -95.3554686
+    },
+    {
+        "restaurant": "The Local General Store",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Honolulu",
+        "state": "HI",
+        "person": "",
+        "lat": 21.2845364,
+        "lon": -157.8018785
+    },
+    {
+        "restaurant": "Machine Shop",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "",
+        "lat": 39.9250434,
+        "lon": -75.1602189
+    },
+    {
+        "restaurant": "Nathaniel Reid Bakery",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Kirkwood",
+        "state": "MO",
+        "person": "",
+        "lat": 38.5992,
+        "lon": -90.416986
+    },
+    {
+        "restaurant": "Patisserie Jacqui",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Bisbee",
+        "state": "AZ",
+        "person": "",
+        "lat": 31.4414554,
+        "lon": -109.9180138
+    },
+    {
+        "restaurant": "Quail and Condor",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Healdsburg",
+        "state": "CA",
+        "person": "",
+        "lat": 38.6067447,
+        "lon": -122.8695013
+    },
+    {
+        "restaurant": "Saint Bread",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Seattle",
+        "state": "WA",
+        "person": "",
+        "lat": 47.6504701,
+        "lon": -122.3129656
+    },
+    {
+        "restaurant": "Secret Bakery",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Ferndale",
+        "state": "MI",
+        "person": "",
+        "lat": 42.4532136,
+        "lon": -83.14296159999999
+    },
+    {
+        "restaurant": "Starship Bagel",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Dallas and Lewisville",
+        "state": "TX",
+        "person": "",
+        "lat": 33.0463292,
+        "lon": -96.9941903
+    },
+    {
+        "restaurant": "Super Secret Ice Cream",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Bethlehem",
+        "state": "NH",
+        "person": "",
+        "lat": 44.2807072,
+        "lon": -71.6842205
+    },
+    {
+        "restaurant": "Vienne",
+        "year": "2025",
+        "category": "Outstanding Bakery",
+        "city": "Bozeman",
+        "state": "MT",
+        "person": "",
+        "lat": 45.6782379,
+        "lon": -111.0288467
+    },
+    {
+        "restaurant": "Moon Rabbit",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "Susan Bae",
+        "lat": 38.897537,
+        "lon": -77.0252454
+    },
+    {
+        "restaurant": "Country Bird Bakery",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Tulsa",
+        "state": "OK",
+        "person": "Cat Cox",
+        "lat": 36.1565133,
+        "lon": -95.96741379999999
+    },
+    {
+        "restaurant": "Gross Confection Bar",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Portland",
+        "state": "ME",
+        "person": "Brant Dadaleares",
+        "lat": 43.6575785,
+        "lon": -70.2543429
+    },
+    {
+        "restaurant": "Provenance",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "Abigail Dahan",
+        "lat": 39.9428742,
+        "lon": -75.1456449
+    },
+    {
+        "restaurant": "Fillings and Emulsions",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "person": "Adalberto Diaz",
+        "lat": 40.7375372,
+        "lon": -111.8908154
+    },
+    {
+        "restaurant": "Tarts de Feybesse",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Oakland",
+        "state": "CA",
+        "person": "Monique Feybesse and Paul Feybesse",
+        "lat": 37.8130637,
+        "lon": -122.262967
+    },
+    {
+        "restaurant": "The Dining Room at High Hampton",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Cashiers",
+        "state": "NC",
+        "person": "April Franqueza",
+        "lat": 35.099815,
+        "lon": -83.0820896
+    },
+    {
+        "restaurant": "CH Patisserie",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "person": "Chris Hanmer",
+        "lat": 43.5442819,
+        "lon": -96.7270456
+    },
+    {
+        "restaurant": "La Puerta del Sol",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "El Paso",
+        "state": "TX",
+        "person": "Mateo Herrera",
+        "lat": 31.8619767,
+        "lon": -106.4395935
+    },
+    {
+        "restaurant": "Course",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Scottsdale",
+        "state": "AZ",
+        "person": "Antonia Kane",
+        "lat": 33.4948764,
+        "lon": -111.9216734
+    },
+    {
+        "restaurant": "Valentine",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Phoenix",
+        "state": "AZ",
+        "person": "Crystal Kass",
+        "lat": 33.4959474,
+        "lon": -112.0839291
+    },
+    {
+        "restaurant": "Larder",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Cleveland",
+        "state": "OH",
+        "person": "Alexandra La Valle",
+        "lat": 41.4891519,
+        "lon": -81.7103566
+    },
+    {
+        "restaurant": "Emma's Patisserie at the World Equestrian Hotel",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Ocala",
+        "state": "FL",
+        "person": "Yohann Le Bescond",
+        "lat": 29.2040551,
+        "lon": -82.2594526
+    },
+    {
+        "restaurant": "The Town Company",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Kansas City",
+        "state": "MO",
+        "person": "Helen Jo Leach",
+        "lat": 39.0988427,
+        "lon": -94.5847371
+    },
+    {
+        "restaurant": "Lucia Patisserie",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "San Juan",
+        "state": "PR",
+        "person": "Lucia Merino",
+        "lat": 18.4548876,
+        "lon": -66.08090709999999
+    },
+    {
+        "restaurant": "Raf's",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "New York",
+        "state": "NY",
+        "person": "Camari Mick",
+        "lat": 40.7246816,
+        "lon": -73.9931371
+    },
+    {
+        "restaurant": "Poulette Bakeshop",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Parker",
+        "state": "CO",
+        "person": "Carolyn Nugent and Alen Ramos",
+        "lat": 39.494162,
+        "lon": -104.7619239
+    },
+    {
+        "restaurant": "Daisies",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Leigh Omilinsky",
+        "lat": 41.9244424,
+        "lon": -87.69961479999999
+    },
+    {
+        "restaurant": "Patisserie HQ",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Honolulu",
+        "state": "HI",
+        "person": "Hana Quon",
+        "lat": 21.3065953,
+        "lon": -157.8615194
+    },
+    {
+        "restaurant": "Fat + Flour",
+        "year": "2025",
+        "category": "Outstanding Pastry Chef or Baker",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "Nicole Rucker",
+        "lat": 34.0506511,
+        "lon": -118.2486879
+    },
+    {
+        "restaurant": "Archipelago",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Seattle",
+        "state": "WA",
+        "person": "",
+        "lat": 47.5517102,
+        "lon": -122.2782231
+    },
+    {
+        "restaurant": "Aria",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Atlanta",
+        "state": "GA",
+        "person": "",
+        "lat": 33.8387184,
+        "lon": -84.3719024
+    },
+    {
+        "restaurant": "Atomix",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "New York",
+        "state": "NY",
+        "person": "",
+        "lat": 40.7442317,
+        "lon": -73.9828502
+    },
+    {
+        "restaurant": "Baobab Fare",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Detroit",
+        "state": "MI",
+        "person": "",
+        "lat": 42.3701364,
+        "lon": -83.07296889999999
+    },
+    {
+        "restaurant": "Bluebeard",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Indianapolis",
+        "state": "IN",
+        "person": "",
+        "lat": 39.7576277,
+        "lon": -86.1459675
+    },
+    {
+        "restaurant": "Comp\u00e8re Lapin",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "New Orleans",
+        "state": "LA",
+        "person": "",
+        "lat": 29.9478867,
+        "lon": -90.0673474
+    },
+    {
+        "restaurant": "Harbor House Inn",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Elk",
+        "state": "CA",
+        "person": "",
+        "lat": 39.1355966,
+        "lon": -123.7195768
+    },
+    {
+        "restaurant": "Holly Hill Inn",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Midway",
+        "state": "KY",
+        "person": "",
+        "lat": 38.1570545,
+        "lon": -84.6799133
+    },
+    {
+        "restaurant": "Kai",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Gila River Indian Community",
+        "state": "AZ",
+        "person": "",
+        "lat": 33.1667186,
+        "lon": -111.8673602
+    },
+    {
+        "restaurant": "Little Fish",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "",
+        "lat": 39.9399843,
+        "lon": -75.15294829999999
+    },
+    {
+        "restaurant": "Manoli's",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "person": "",
+        "lat": 40.749446,
+        "lon": -111.879428
+    },
+    {
+        "restaurant": "Melba's",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "New York",
+        "state": "NY",
+        "person": "",
+        "lat": 40.80311,
+        "lon": -73.95662949999999
+    },
+    {
+        "restaurant": "Mixtli",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "San Antonio",
+        "state": "TX",
+        "person": "",
+        "lat": 29.41545109999999,
+        "lon": -98.48888339999999
+    },
+    {
+        "restaurant": "Mucci's",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Saint Paul",
+        "state": "MN",
+        "person": "",
+        "lat": 44.92670409999999,
+        "lon": -93.13328580000001
+    },
+    {
+        "restaurant": "Persimmon",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Providence",
+        "state": "RI",
+        "person": "",
+        "lat": 41.8220649,
+        "lon": -71.396405
+    },
+    {
+        "restaurant": "R\u00e9publique",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "",
+        "lat": 34.0641589,
+        "lon": -118.343697
+    },
+    {
+        "restaurant": "Simon's",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Des Moines",
+        "state": "IA",
+        "person": "",
+        "lat": 41.611076,
+        "lon": -93.6979042
+    },
+    {
+        "restaurant": "Tail Up Goat",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "",
+        "lat": 38.92359769999999,
+        "lon": -77.0431323
+    },
+    {
+        "restaurant": "Taj Indian Cuisine",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "South Portland",
+        "state": "ME",
+        "person": "",
+        "lat": 43.6312086,
+        "lon": -70.3253537
+    },
+    {
+        "restaurant": "Vestige",
+        "year": "2025",
+        "category": "Outstanding Hospitality",
+        "city": "Ocean Springs",
+        "state": "MS",
+        "person": "",
+        "lat": 30.4134182,
+        "lon": -88.82804259999999
+    },
+    {
+        "restaurant": "Bar Brava",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Minneapolis",
+        "state": "MN",
+        "person": "",
+        "lat": 44.9986768,
+        "lon": -93.2814959
+    },
+    {
+        "restaurant": "Campo at Los Poblanos",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Los Ranchos de Albuquerque",
+        "state": "NM",
+        "person": "",
+        "lat": 35.1489102,
+        "lon": -106.6663899
+    },
+    {
+        "restaurant": "C\u00e0ph\u00ea Roasters",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "",
+        "lat": 39.9993447,
+        "lon": -75.1091197
+    },
+    {
+        "restaurant": "Charleston",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Baltimore",
+        "state": "MD",
+        "person": "",
+        "lat": 39.2825989,
+        "lon": -76.60004789999999
+    },
+    {
+        "restaurant": "Elske",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "",
+        "lat": 41.8844672,
+        "lon": -87.6609002
+    },
+    {
+        "restaurant": "Hawksmoor",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "New York",
+        "state": "NY",
+        "person": "",
+        "lat": 40.7395356,
+        "lon": -73.9863884
+    },
+    {
+        "restaurant": "Hop Alley",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Denver",
+        "state": "CO",
+        "person": "",
+        "lat": 39.7669902,
+        "lon": -104.9742174
+    },
+    {
+        "restaurant": "JJ's Restaurant",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Kansas City",
+        "state": "MO",
+        "person": "",
+        "lat": 39.0405106,
+        "lon": -94.5976974
+    },
+    {
+        "restaurant": "Kitchen Istanbul",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "",
+        "lat": 37.7828985,
+        "lon": -122.4632343
+    },
+    {
+        "restaurant": "Leo's House of Thirst",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Asheville",
+        "state": "NC",
+        "person": "",
+        "lat": 35.5823954,
+        "lon": -82.6045504
+    },
+    {
+        "restaurant": "Ltd Edition Sushi",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Seattle",
+        "state": "WA",
+        "person": "",
+        "lat": 47.61600139999999,
+        "lon": -122.3203204
+    },
+    {
+        "restaurant": "Lucian Books and Wine",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Buckhead",
+        "state": "GA",
+        "person": "",
+        "lat": 33.8369462,
+        "lon": -84.381205
+    },
+    {
+        "restaurant": "Macchialina",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Miami",
+        "state": "FL",
+        "person": "",
+        "lat": 25.7785838,
+        "lon": -80.1410784
+    },
+    {
+        "restaurant": "MARCH",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Houston",
+        "state": "TX",
+        "person": "",
+        "lat": 29.7431485,
+        "lon": -95.4003814
+    },
+    {
+        "restaurant": "Oyster Club",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Mystic",
+        "state": "CT",
+        "person": "",
+        "lat": 41.3528444,
+        "lon": -71.9719472
+    },
+    {
+        "restaurant": "Pluck Wine Bar and Restaurant",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "New Orleans",
+        "state": "LA",
+        "person": "",
+        "lat": 29.9473256,
+        "lon": -90.0719191
+    },
+    {
+        "restaurant": "Spencer",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "person": "",
+        "lat": 42.2796723,
+        "lon": -83.7478995
+    },
+    {
+        "restaurant": "Strong Water",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Anaheim",
+        "state": "CA",
+        "person": "",
+        "lat": 33.8330856,
+        "lon": -117.9162782
+    },
+    {
+        "restaurant": "Taconeta",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "El Paso",
+        "state": "TX",
+        "person": "",
+        "lat": 31.7648439,
+        "lon": -106.4904197
+    },
+    {
+        "restaurant": "Waxlight Bar \u00e0 Vin",
+        "year": "2025",
+        "category": "Outstanding Wine and Other Beverages Program",
+        "city": "Buffalo",
+        "state": "NY",
+        "person": "",
+        "lat": 42.9429168,
+        "lon": -78.8904724
+    },
+    {
+        "restaurant": "Apothecary",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Dallas",
+        "state": "TX",
+        "person": "",
+        "lat": 32.8135611,
+        "lon": -96.77002279999999
+    },
+    {
+        "restaurant": "Bryant's Cocktail Lounge",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Milwaukee",
+        "state": "WI",
+        "person": "",
+        "lat": 43.0143397,
+        "lon": -87.92283959999999
+    },
+    {
+        "restaurant": "Caf\u00e9 La Trova",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Miami",
+        "state": "FL",
+        "person": "",
+        "lat": 25.7660827,
+        "lon": -80.2104785
+    },
+    {
+        "restaurant": "Chandelier Bar",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "New Orleans",
+        "state": "LA",
+        "person": "",
+        "lat": 29.9489442,
+        "lon": -90.0638244
+    },
+    {
+        "restaurant": "Devil\u2019s Toboggan",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Bozeman",
+        "state": "MT",
+        "person": "",
+        "lat": 45.692922,
+        "lon": -111.0342165
+    },
+    {
+        "restaurant": "John Brown's Underground",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Lawrence",
+        "state": "KS",
+        "person": "",
+        "lat": 38.97108739999999,
+        "lon": -95.235393
+    },
+    {
+        "restaurant": "Kumiko",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "",
+        "lat": 41.8858905,
+        "lon": -87.6440207
+    },
+    {
+        "restaurant": "Law Bird",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Columbus",
+        "state": "OH",
+        "person": "",
+        "lat": 39.9469863,
+        "lon": -82.9974146
+    },
+    {
+        "restaurant": "Leyenda",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Brooklyn",
+        "state": "NY",
+        "person": "",
+        "lat": 40.68426669999999,
+        "lon": -73.99189799999999
+    },
+    {
+        "restaurant": "Little Rituals",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Phoenix",
+        "state": "AZ",
+        "person": "",
+        "lat": 33.4464073,
+        "lon": -112.0741383
+    },
+    {
+        "restaurant": "Lone Wolf Lounge",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Savannah",
+        "state": "GA",
+        "person": "",
+        "lat": 32.0529183,
+        "lon": -81.098148
+    },
+    {
+        "restaurant": "Roquette",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Seattle",
+        "state": "WA",
+        "person": "",
+        "lat": 47.613407,
+        "lon": -122.346158
+    },
+    {
+        "restaurant": "Scotch Lodge",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Portland",
+        "state": "OR",
+        "person": "",
+        "lat": 45.5213358,
+        "lon": -122.656848
+    },
+    {
+        "restaurant": "Techo Mezcaleria & Agave Bar",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Austin",
+        "state": "TX",
+        "person": "",
+        "lat": 30.2841055,
+        "lon": -97.71891910000001
+    },
+    {
+        "restaurant": "The Bar at Willett",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Bardstown",
+        "state": "KY",
+        "person": "",
+        "lat": 37.7849929,
+        "lon": -85.4611632
+    },
+    {
+        "restaurant": "The Lovers Bar at Friday Saturday Sunday",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "",
+        "lat": 39.9489446,
+        "lon": -75.1759667
+    },
+    {
+        "restaurant": "Thunderbolt",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "",
+        "lat": 34.0664107,
+        "lon": -118.254126
+    },
+    {
+        "restaurant": "True Laurel",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "",
+        "lat": 37.7595236,
+        "lon": -122.4114663
+    },
+    {
+        "restaurant": "Water Witch",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "person": "",
+        "lat": 40.7495629,
+        "lon": -111.895859
+    },
+    {
+        "restaurant": "Wolf Tree",
+        "year": "2025",
+        "category": "Outstanding Bar",
+        "city": "White River Junction",
+        "state": "VT",
+        "person": "",
+        "lat": 43.6484336,
+        "lon": -72.3195266
+    },
+    {
+        "restaurant": "The Abbey",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Brunswick",
+        "state": "ME",
+        "person": "",
+        "lat": 43.9165556,
+        "lon": -69.9655744
+    },
+    {
+        "restaurant": "Agency",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Milwaukee",
+        "state": "WI",
+        "person": "",
+        "lat": 43.0420275,
+        "lon": -87.90097899999999
+    },
+    {
+        "restaurant": "The Bar Beej",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Durham",
+        "state": "NC",
+        "person": "",
+        "lat": 35.9967725,
+        "lon": -78.9012659
+    },
+    {
+        "restaurant": "Bar Cana",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "",
+        "lat": 38.92117390000001,
+        "lon": -77.0423915
+    },
+    {
+        "restaurant": "Bar Colette",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Dallas",
+        "state": "TX",
+        "person": "",
+        "lat": 32.8079992,
+        "lon": -96.797826
+    },
+    {
+        "restaurant": "Bar Contra",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "New York",
+        "state": "NY",
+        "person": "",
+        "lat": 40.7198925,
+        "lon": -73.9890891
+    },
+    {
+        "restaurant": "Bisous",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "",
+        "lat": 41.8868678,
+        "lon": -87.6514145
+    },
+    {
+        "restaurant": "Equal Measure",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Boston",
+        "state": "MA",
+        "person": "",
+        "lat": 42.3475448,
+        "lon": -71.10141209999999
+    },
+    {
+        "restaurant": "The Halfway Club",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "",
+        "lat": 37.7143337,
+        "lon": -122.4369709
+    },
+    {
+        "restaurant": "Identidad Cocktail Bar",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "San Juan",
+        "state": "PR",
+        "person": "",
+        "lat": 18.4531708,
+        "lon": -66.07916519999999
+    },
+    {
+        "restaurant": "Kampar Kongsi",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "",
+        "lat": 39.94184509999999,
+        "lon": -75.1538391
+    },
+    {
+        "restaurant": "Kid Sister",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Phoenix",
+        "state": "AZ",
+        "person": "",
+        "lat": 33.5079827,
+        "lon": -112.0653506
+    },
+    {
+        "restaurant": "Marietta Proper",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Marietta",
+        "state": "GA",
+        "person": "",
+        "lat": 33.9523669,
+        "lon": -84.55048459999999
+    },
+    {
+        "restaurant": "Merai",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Brookline",
+        "state": "MA",
+        "person": "",
+        "lat": 42.3336709,
+        "lon": -71.11901929999999
+    },
+    {
+        "restaurant": "Roma Norte",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "San Diego",
+        "state": "CA",
+        "person": "",
+        "lat": 32.7106452,
+        "lon": -117.1702749
+    },
+    {
+        "restaurant": "Sip & Guzzle",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "New York",
+        "state": "NY",
+        "person": "",
+        "lat": 40.7314775,
+        "lon": -74.0024921
+    },
+    {
+        "restaurant": "Sophon",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Seattle",
+        "state": "WA",
+        "person": "",
+        "lat": 47.68226199999999,
+        "lon": -122.3550476
+    },
+    {
+        "restaurant": "Traveling Mercies",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Aurora",
+        "state": "CO",
+        "person": "",
+        "lat": 39.7530479,
+        "lon": -104.8773876
+    },
+    {
+        "restaurant": "Truce",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "",
+        "lat": 41.916989,
+        "lon": -87.6773178
+    },
+    {
+        "restaurant": "ViceVersa",
+        "year": "2025",
+        "category": "Best New Bar",
+        "city": "Miami",
+        "state": "FL",
+        "person": "",
+        "lat": 25.7788802,
+        "lon": -80.1890556
+    },
+    {
+        "restaurant": "Vinya",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Miami",
+        "state": "FL",
+        "person": "Allegra Angelo",
+        "lat": 25.7978392,
+        "lon": -80.23448379999999
+    },
+    {
+        "restaurant": "The Gin Room",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "St. Louis",
+        "state": "MO",
+        "person": "Natasha Bahrami",
+        "lat": 38.5989598,
+        "lon": -90.2426614
+    },
+    {
+        "restaurant": "F.L.X. Table",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Geneva",
+        "state": "NY",
+        "person": "Christopher Bates",
+        "lat": 42.8675513,
+        "lon": -76.9836083
+    },
+    {
+        "restaurant": "The Study",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "person": "Ian Bennett",
+        "lat": 35.466735,
+        "lon": -97.524428
+    },
+    {
+        "restaurant": "Madrina",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Webster Groves",
+        "state": "MO",
+        "person": "Alisha Blackwell-Calvert",
+        "lat": 38.5931994,
+        "lon": -90.3596709
+    },
+    {
+        "restaurant": "Le Jardinier",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Houston",
+        "state": "TX",
+        "person": "Andres Blanco",
+        "lat": 29.7264512,
+        "lon": -95.3897271
+    },
+    {
+        "restaurant": "Lazy Bear",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "Jacob Brown",
+        "lat": 37.7604119,
+        "lon": -122.4197156
+    },
+    {
+        "restaurant": "Adios",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Birmingham",
+        "state": "AL",
+        "person": "Jose Medina Camacho",
+        "lat": 33.516419,
+        "lon": -86.80227200000002
+    },
+    {
+        "restaurant": "Birdie's",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Austin",
+        "state": "TX",
+        "person": "Arjav Ezekiel",
+        "lat": 30.2764082,
+        "lon": -97.7045648
+    },
+    {
+        "restaurant": "Daniel",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "New York",
+        "state": "NY",
+        "person": "Cassandra Felix",
+        "lat": 40.7668083,
+        "lon": -73.9675769
+    },
+    {
+        "restaurant": "Heavenly Creatures",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Portland",
+        "state": "OR",
+        "person": "Joel Gunderson",
+        "lat": 45.5347996,
+        "lon": -122.6425641
+    },
+    {
+        "restaurant": "Scratch Brewing",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Ava",
+        "state": "IL",
+        "person": "Marika Josephson and Aaron Kleidon",
+        "lat": 37.8765508,
+        "lon": -89.4306549
+    },
+    {
+        "restaurant": "Asador Bastian",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Thomas Kakalios",
+        "lat": 41.8940917,
+        "lon": -87.6348275
+    },
+    {
+        "restaurant": "Coffee By Design",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Portland",
+        "state": "ME",
+        "person": "Mary Allen Lindemann",
+        "lat": 43.66090459999999,
+        "lon": -70.250248
+    },
+    {
+        "restaurant": "The Koji Club",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Brighton",
+        "state": "MA",
+        "person": "Alyssa Mikiko DiPasquale",
+        "lat": 42.361774,
+        "lon": -71.1450325
+    },
+    {
+        "restaurant": "Delilah",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Las Vegas",
+        "state": "NV",
+        "person": "Cristie Norman",
+        "lat": 36.1271069,
+        "lon": -115.1648303
+    },
+    {
+        "restaurant": "PLONK",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Bozeman & Missoula",
+        "state": "MT",
+        "person": "Michael Ochsner",
+        "lat": 46.8721284,
+        "lon": -113.9940314
+    },
+    {
+        "restaurant": "Graft Wine Shop",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Charleston",
+        "state": "SC",
+        "person": "Femi Oyediran and Miles White",
+        "lat": 32.7985612,
+        "lon": -79.9461851
+    },
+    {
+        "restaurant": "One Market",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "Tonya Pitts",
+        "lat": 37.791051,
+        "lon": -122.3991719
+    },
+    {
+        "restaurant": "Canlis",
+        "year": "2025",
+        "category": "Outstanding Professional in Beverage Service",
+        "city": "Seattle",
+        "state": "WA",
+        "person": "Linda Milagros Violago",
+        "lat": 47.6430933,
+        "lon": -122.3467535
+    },
+    {
+        "restaurant": "Rob Roy",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Seattle",
+        "state": "WA",
+        "person": "Anu Apte",
+        "lat": 47.61476160000001,
+        "lon": -122.3465852
+    },
+    {
+        "restaurant": "Twisted Soul Cookhouse & Pours",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Atlanta",
+        "state": "GA",
+        "person": "Kursten Berry",
+        "lat": 33.7892169,
+        "lon": -84.4251171
+    },
+    {
+        "restaurant": "Carry On",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Phoenix",
+        "state": "AZ",
+        "person": "Jax Donahue",
+        "lat": 33.4485996,
+        "lon": -112.0743352
+    },
+    {
+        "restaurant": "Happy Accidents",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Albuquerque",
+        "state": "NM",
+        "person": "Kate Gerwin",
+        "lat": 35.0806738,
+        "lon": -106.608673
+    },
+    {
+        "restaurant": "LOA Bar",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "New Orleans",
+        "state": "LA",
+        "person": "Abigail Gullo",
+        "lat": 29.951241,
+        "lon": -90.068981
+    },
+    {
+        "restaurant": "Yacht Club",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Denver",
+        "state": "CO",
+        "person": "McLain Hedges and Mary Allison Wright",
+        "lat": 39.7683418,
+        "lon": -104.9661101
+    },
+    {
+        "restaurant": "Supperland",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Charlotte",
+        "state": "NC",
+        "person": "Colleen Hughes",
+        "lat": 35.2189693,
+        "lon": -80.8105058
+    },
+    {
+        "restaurant": "Superbueno",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "New York",
+        "state": "NY",
+        "person": "Ignacio Jimenez",
+        "lat": 40.7234473,
+        "lon": -73.9885737
+    },
+    {
+        "restaurant": "Serenata",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "Andra \"AJ\" Johnson",
+        "lat": 38.9090521,
+        "lon": -76.9994703
+    },
+    {
+        "restaurant": "Clavel",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Baltimore",
+        "state": "MD",
+        "person": "Dre Levon",
+        "lat": 39.3150317,
+        "lon": -76.62045710000001
+    },
+    {
+        "restaurant": "KAIY\u014c",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "Danny Louie",
+        "lat": 37.7979908,
+        "lon": -122.4296519
+    },
+    {
+        "restaurant": "Best Intentions",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Christopher Marty",
+        "lat": 41.9171619,
+        "lon": -87.7101417
+    },
+    {
+        "restaurant": "The Jewel Box",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Portland",
+        "state": "ME",
+        "person": "Nathaniel Meiklejohn",
+        "lat": 43.653202,
+        "lon": -70.2652422
+    },
+    {
+        "restaurant": "Pint + Jigger",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Honolulu",
+        "state": "HI",
+        "person": "Dave Newman",
+        "lat": 21.2901175,
+        "lon": -157.8394807
+    },
+    {
+        "restaurant": "Wild Child",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Shawnee",
+        "state": "KS",
+        "person": "Jay Sanders",
+        "lat": 39.0231076,
+        "lon": -94.7144416
+    },
+    {
+        "restaurant": "Redbird",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "Tobin Shea",
+        "lat": 34.050562,
+        "lon": -118.2440748
+    },
+    {
+        "restaurant": "The Wig Shop",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Boston",
+        "state": "MA",
+        "person": "Oscar Simoza",
+        "lat": 42.3551765,
+        "lon": -71.0622873
+    },
+    {
+        "restaurant": "Longfellow",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Cincinnati",
+        "state": "OH",
+        "person": "Mike Stankovich",
+        "lat": 39.1097011,
+        "lon": -84.51276299999999
+    },
+    {
+        "restaurant": "The Brakes Bar",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "Baton Rouge",
+        "state": "LA",
+        "person": "Alan Walter",
+        "lat": 30.4441898,
+        "lon": -91.1341721
+    },
+    {
+        "restaurant": "Martiny\u2019s",
+        "year": "2025",
+        "category": "Outstanding Professional in Cocktail Service",
+        "city": "New York",
+        "state": "NY",
+        "person": "Takuma Watanabe",
+        "lat": 40.7361399,
+        "lon": -73.9877486
+    },
+    {
+        "restaurant": "Valle",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Oceanside",
+        "state": "CA",
+        "person": "Roberto Alcocer",
+        "lat": 33.1946132,
+        "lon": -117.3834554
+    },
+    {
+        "restaurant": "Etra",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "Evan Algorri",
+        "lat": 34.0846893,
+        "lon": -118.3093181
+    },
+    {
+        "restaurant": "Stateline Road Smokehouse",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Napa",
+        "state": "CA",
+        "person": "Darryl Bell",
+        "lat": 38.3045794,
+        "lon": -122.2867499
+    },
+    {
+        "restaurant": "Chez Noir",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Carmel-by-the-Sea",
+        "state": "CA",
+        "person": "Jonny Black",
+        "lat": 36.5569346,
+        "lon": -121.9223308
+    },
+    {
+        "restaurant": "Californios",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "Val Cantu",
+        "lat": 37.7714672,
+        "lon": -122.4128723
+    },
+    {
+        "restaurant": "Heritage Barbecue",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "San Juan Capistrano",
+        "state": "CA",
+        "person": "Daniel Castillo",
+        "lat": 33.5019944,
+        "lon": -117.6632067
+    },
+    {
+        "restaurant": "Amiga Amore",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "Danielle Duran Zecca",
+        "lat": 34.1187981,
+        "lon": -118.1946252
+    },
+    {
+        "restaurant": "Evil Cooks",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "Elvia Garcia and Alex Garcia",
+        "lat": 34.0846087,
+        "lon": -118.1783248
+    },
+    {
+        "restaurant": "Saison",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "Richard Lee",
+        "lat": 37.7795228,
+        "lon": -122.3922691
+    },
+    {
+        "restaurant": "Barra Santos",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "Melissa L\u00f3pez",
+        "lat": 34.0956641,
+        "lon": -118.228049
+    },
+    {
+        "restaurant": "Friends & Family",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Oakland",
+        "state": "CA",
+        "person": "Gaby Maeda",
+        "lat": 37.8145317,
+        "lon": -122.2669857
+    },
+    {
+        "restaurant": "Mazra",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Redwood City",
+        "state": "CA",
+        "person": "Jordan Makableh and Saif Makableh",
+        "lat": 37.4864235,
+        "lon": -122.2268549
+    },
+    {
+        "restaurant": "ANIMAE",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "San Diego",
+        "state": "CA",
+        "person": "Tara Monsod",
+        "lat": 32.715116,
+        "lon": -117.170522
+    },
+    {
+        "restaurant": "Cam\u00e9lia",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "Charles Namba",
+        "lat": 34.035574,
+        "lon": -118.2325904
+    },
+    {
+        "restaurant": "Dalida",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "Laura Ozyilmaz and Sayat Ozyilmaz",
+        "lat": 37.8000327,
+        "lon": -122.4595791
+    },
+    {
+        "restaurant": "Mijote",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "Kosuke Tada",
+        "lat": 37.758894,
+        "lon": -122.412746
+    },
+    {
+        "restaurant": "Baroo",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "Kwang Uh",
+        "lat": 34.0472697,
+        "lon": -118.2347764
+    },
+    {
+        "restaurant": "Glen Ellen Star",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Glen Ellen",
+        "state": "CA",
+        "person": "Ari Weiswasser",
+        "lat": 38.3643381,
+        "lon": -122.5246458
+    },
+    {
+        "restaurant": "Kato",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "Los Angeles",
+        "state": "CA",
+        "person": "Jon Yao",
+        "lat": 34.0341749,
+        "lon": -118.2410628
+    },
+    {
+        "restaurant": "Lunette",
+        "year": "2025",
+        "category": "Best Chef: California",
+        "city": "San Francisco",
+        "state": "CA",
+        "person": "Nite Yun",
+        "lat": 37.7952178,
+        "lon": -122.3929823
+    },
+    {
+        "restaurant": "Mariscos San Pedro",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Marcos Ascencio",
+        "lat": 41.8578324,
+        "lon": -87.6575108
+    },
+    {
+        "restaurant": "Barda",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Detroit",
+        "state": "MI",
+        "person": "Javier Bardauil",
+        "lat": 42.3485226,
+        "lon": -83.0879866
+    },
+    {
+        "restaurant": "Agni",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Columbus",
+        "state": "OH",
+        "person": "Avishar Barua",
+        "lat": 39.947505,
+        "lon": -82.9974218
+    },
+    {
+        "restaurant": "The Cooks' House",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Traverse City",
+        "state": "MI",
+        "person": "Jennifer Blakeslee and Eric Patterson",
+        "lat": 44.7635777,
+        "lon": -85.6132566
+    },
+    {
+        "restaurant": "Beholder",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Indianapolis",
+        "state": "IN",
+        "person": "Jonathan Brooks",
+        "lat": 39.7816075,
+        "lon": -86.1268614
+    },
+    {
+        "restaurant": "Cordelia",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Cleveland",
+        "state": "OH",
+        "person": "Vinnie Cimino",
+        "lat": 41.4987995,
+        "lon": -81.690165
+    },
+    {
+        "restaurant": "Pennyroyal Cafe and Provisions",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Saugatuck",
+        "state": "MI",
+        "person": "Missy Corey",
+        "lat": 42.6596483,
+        "lon": -86.19005500000002
+    },
+    {
+        "restaurant": "HaiSous",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Thai Dang",
+        "lat": 41.8578927,
+        "lon": -87.6533712
+    },
+    {
+        "restaurant": "Mi Tocaya Antojer\u00eda",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Diana Davila",
+        "lat": 41.9288865,
+        "lon": -87.69768429999999
+    },
+    {
+        "restaurant": "BiXi Beer",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Bo Fowler",
+        "lat": 41.92724680000001,
+        "lon": -87.7039236
+    },
+    {
+        "restaurant": "Daisies",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Joe Frillman",
+        "lat": 41.9244424,
+        "lon": -87.69961479999999
+    },
+    {
+        "restaurant": "Wildweed",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Cincinnati",
+        "state": "OH",
+        "person": "David Jackman",
+        "lat": 39.1098333,
+        "lon": -84.5136283
+    },
+    {
+        "restaurant": "Maxwells Trading",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Chris Jung and Erling Wu-Bower",
+        "lat": 41.8876644,
+        "lon": -87.6652479
+    },
+    {
+        "restaurant": "Miss Kim",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "person": "Ji Hye Kim",
+        "lat": 42.284623,
+        "lon": -83.7462414
+    },
+    {
+        "restaurant": "ETC.",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Lamar Moore",
+        "lat": 41.8766345,
+        "lon": -87.633907
+    },
+    {
+        "restaurant": "Oriole",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Noah Sandoval",
+        "lat": 41.8861692,
+        "lon": -87.64509389999999
+    },
+    {
+        "restaurant": "Indienne",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Sujan Sarkar",
+        "lat": 41.8945578,
+        "lon": -87.63506199999999
+    },
+    {
+        "restaurant": "Superkhana International",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Chicago",
+        "state": "IL",
+        "person": "Zeeshan Shah and Yoshi Yamada",
+        "lat": 41.9318828,
+        "lon": -87.7048219
+    },
+    {
+        "restaurant": "Larder",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Cleveland",
+        "state": "OH",
+        "person": "Jeremy Umansky",
+        "lat": 41.4891519,
+        "lon": -81.7103566
+    },
+    {
+        "restaurant": "Ladder 4 Wine Bar",
+        "year": "2025",
+        "category": "Best Chef: Great Lakes (IL, IN, MI, OH)",
+        "city": "Detroit",
+        "state": "MI",
+        "person": "John Yelinek",
+        "lat": 42.3335705,
+        "lon": -83.0980565
+    },
+    {
+        "restaurant": "Cucina Morini",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "Matt Adler",
+        "lat": 38.9016818,
+        "lon": -77.01587370000001
+    },
+    {
+        "restaurant": "Andiario",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "West Chester",
+        "state": "PA",
+        "person": "Anthony Andiario",
+        "lat": 39.9597412,
+        "lon": -75.60656589999999
+    },
+    {
+        "restaurant": "El Chingon",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "Juan Carlos Aparicio",
+        "lat": 39.9301165,
+        "lon": -75.1616126
+    },
+    {
+        "restaurant": "Queen's English",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "Henji Cheung",
+        "lat": 38.9321663,
+        "lon": -77.0285485
+    },
+    {
+        "restaurant": "Pascual",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "Matt Conroy and Isabel Coss",
+        "lat": 38.8956524,
+        "lon": -76.9951609
+    },
+    {
+        "restaurant": "Ruse",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "St. Michaels",
+        "state": "MD",
+        "person": "Michael Correll",
+        "lat": 38.787662,
+        "lon": -76.2247301
+    },
+    {
+        "restaurant": "Causa and Amazonia",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "Carlos Delgado",
+        "lat": 38.9065,
+        "lon": -77.024744
+    },
+    {
+        "restaurant": "Bardea Food & Drink",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Wilmington",
+        "state": "DE",
+        "person": "Antimo DiMeo",
+        "lat": 39.7424927,
+        "lon": -75.5496883
+    },
+    {
+        "restaurant": "Bolo",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "Yun Fuentes",
+        "lat": 39.9516102,
+        "lon": -75.17454529999999
+    },
+    {
+        "restaurant": "Casa Teresa",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "Ruben Garcia",
+        "lat": 38.90176719999999,
+        "lon": -77.0431844
+    },
+    {
+        "restaurant": "Royal Sushi & Izakaya",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "Jesse Ito",
+        "lat": 39.9381073,
+        "lon": -75.14656219999999
+    },
+    {
+        "restaurant": "Apteka",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "person": "Kate Lasky and Tomasz Skowronski",
+        "lat": 40.46575,
+        "lon": -79.94929719999999
+    },
+    {
+        "restaurant": "The Urban Oyster",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Baltimore",
+        "state": "MD",
+        "person": "Jasmine Norton",
+        "lat": 39.3312724,
+        "lon": -76.63232959999999
+    },
+    {
+        "restaurant": "Green Almond Pantry",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Washington",
+        "state": "D.C.",
+        "person": "Cagla Onal Urel",
+        "lat": 38.9036809,
+        "lon": -77.0636554
+    },
+    {
+        "restaurant": "Razza",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Jersey City",
+        "state": "NJ",
+        "person": "Dan Richer",
+        "lat": 40.7177776,
+        "lon": -74.0442612
+    },
+    {
+        "restaurant": "Her Place Supper Club",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Philadelphia",
+        "state": "PA",
+        "person": "Amanda Shulman",
+        "lat": 39.9507452,
+        "lon": -75.1701679
+    },
+    {
+        "restaurant": "Tremolo",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Middleburg",
+        "state": "VA",
+        "person": "Jarad Slipp",
+        "lat": 38.96922989999999,
+        "lon": -77.7344446
+    },
+    {
+        "restaurant": "Lita",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Aberdeen",
+        "state": "NJ",
+        "person": "David Viana",
+        "lat": 40.4015722,
+        "lon": -74.22852499999999
+    },
+    {
+        "restaurant": "Chengdu Gourmet",
+        "year": "2025",
+        "category": "Best Chef: Mid-Atlantic (DC, DE, MD, NJ, PA, VA)",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "person": "Wei Zhu",
+        "lat": 40.4293386,
+        "lon": -79.92236849999999
+    },
+    {
+        "restaurant": "Odd Duck",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Milwaukee",
+        "state": "WI",
+        "person": "Ross Bachhuber and Samuel Ek",
+        "lat": 43.0213006,
+        "lon": -87.9129282
+    },
+    {
+        "restaurant": "Sado",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "St. Louis",
+        "state": "MO",
+        "person": "Nick Bognar",
+        "lat": 38.6181258,
+        "lon": -90.2726375
+    },
+    {
+        "restaurant": "Ahan",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Madison",
+        "state": "WI",
+        "person": "Jamie Brown-Soukaseume and Chuckie Brown-Soukaseume",
+        "lat": 43.0781243,
+        "lon": -89.3721438
+    },
+    {
+        "restaurant": "The Restaurant at 1900",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Mission Woods",
+        "state": "KS",
+        "person": "Linda Duerr",
+        "lat": 39.0347826,
+        "lon": -94.6082453
+    },
+    {
+        "restaurant": "Kado no Mise",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Minneapolis",
+        "state": "MN",
+        "person": "Shigeyuki Furukawa",
+        "lat": 44.98465969999999,
+        "lon": -93.267522
+    },
+    {
+        "restaurant": "Hyacinth",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "St. Paul",
+        "state": "MN",
+        "person": "Abraham Gessesse",
+        "lat": 44.9397939,
+        "lon": -93.133467
+    },
+    {
+        "restaurant": "EsterEv",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Milwaukee",
+        "state": "WI",
+        "person": "Dan Jacobs and Dan Van Rite",
+        "lat": 43.0050978,
+        "lon": -87.90629779999999
+    },
+    {
+        "restaurant": "Birch",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Milwaukee",
+        "state": "WI",
+        "person": "Kyle Knall",
+        "lat": 43.05091669999999,
+        "lon": -87.9068667
+    },
+    {
+        "restaurant": "The Town Company",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Kansas City",
+        "state": "MO",
+        "person": "Johnny Leach",
+        "lat": 39.0988427,
+        "lon": -94.5847371
+    },
+    {
+        "restaurant": "Chewology",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Kansas City",
+        "state": "MO",
+        "person": "Katie Liu-Sung",
+        "lat": 39.0507848,
+        "lon": -94.5969016
+    },
+    {
+        "restaurant": "Krewe",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Saint Joseph",
+        "state": "MN",
+        "person": "Mateo Mackbee",
+        "lat": 45.5656157,
+        "lon": -94.31795950000001
+    },
+    {
+        "restaurant": "Huckleberry House",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Bismarck",
+        "state": "ND",
+        "person": "Cody Monson",
+        "lat": 46.8243504,
+        "lon": -100.8288622
+    },
+    {
+        "restaurant": "Diane's Place",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Minneapolis",
+        "state": "MN",
+        "person": "Diane Moua",
+        "lat": 45.0015128,
+        "lon": -93.27036179999999
+    },
+    {
+        "restaurant": "Balkan Treat Box",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Webster Groves",
+        "state": "MO",
+        "person": "Loryn Nalic",
+        "lat": 38.5921553,
+        "lon": -90.3378687
+    },
+    {
+        "restaurant": "The Boiler Room",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Omaha",
+        "state": "NE",
+        "person": "Tim Nicholson",
+        "lat": 41.2535192,
+        "lon": -95.93100629999999
+    },
+    {
+        "restaurant": "Saltwell Farm Kitchen",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Overbrook",
+        "state": "KS",
+        "person": "Rozz Petrozz",
+        "lat": 38.8555468,
+        "lon": -95.460285
+    },
+    {
+        "restaurant": "Skogen Kitchen",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Custer",
+        "state": "SD",
+        "person": "Joseph Raney",
+        "lat": 43.7668069,
+        "lon": -103.6008908
+    },
+    {
+        "restaurant": "Cobble Hill",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "person": "Andy Schumacher",
+        "lat": 41.9772763,
+        "lon": -91.6674081
+    },
+    {
+        "restaurant": "Myriel",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "St. Paul",
+        "state": "MN",
+        "person": "Karyn Tomlinson",
+        "lat": 44.9274776,
+        "lon": -93.18715069999999
+    },
+    {
+        "restaurant": "Ota and Yoshitomo",
+        "year": "2025",
+        "category": "Best Chef: Midwest (IA, KS, MN, MO, NE, ND, SD, WI)",
+        "city": "Omaha",
+        "state": "NE",
+        "person": "David Utterback",
+        "lat": 41.284871,
+        "lon": -96.0053717
+    },
+    {
+        "restaurant": "Campione",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Livingston",
+        "state": "MT",
+        "person": "Joshua Adams",
+        "lat": 45.6614151,
+        "lon": -110.5602874
+    },
+    {
+        "restaurant": "Amano",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Caldwell",
+        "state": "ID",
+        "person": "Salvador Alamilla",
+        "lat": 43.6668163,
+        "lon": -116.6882279
+    },
+    {
+        "restaurant": "Stanley Supper Club",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Stanley",
+        "state": "ID",
+        "person": "Benjamin Barlow",
+        "lat": 44.21552399999999,
+        "lon": -114.9391429
+    },
+    {
+        "restaurant": "Table X",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "person": "Mike Blocher and Nick Fahs",
+        "lat": 40.6990987,
+        "lon": -111.8498486
+    },
+    {
+        "restaurant": "Lucina Eatery & Bar",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Denver",
+        "state": "CO",
+        "person": "Erasmo Casiano and Diego Coconati",
+        "lat": 39.7502175,
+        "lon": -104.9177564
+    },
+    {
+        "restaurant": "Terroir",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Boise",
+        "state": "ID",
+        "person": "R\u00e9mi Courcenet and Nathan Whitley",
+        "lat": 43.6160368,
+        "lon": -116.2028974
+    },
+    {
+        "restaurant": "The Social Haus",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Greenough",
+        "state": "MT",
+        "person": "Brandon Cunningham",
+        "lat": 46.9165991,
+        "lon": -113.4367468
+    },
+    {
+        "restaurant": "The Avery",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Boise",
+        "state": "ID",
+        "person": "Cal Elliott",
+        "lat": 43.6172016,
+        "lon": -116.2062462
+    },
+    {
+        "restaurant": "Oquirrh",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "person": "Andrew Fuller",
+        "lat": 40.7669253,
+        "lon": -111.8803379
+    },
+    {
+        "restaurant": "tupelo Park City",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Park City",
+        "state": "UT",
+        "person": "Matthew Harris",
+        "lat": 40.6638581,
+        "lon": -111.500101
+    },
+    {
+        "restaurant": "Hummingbird\u2019s Kitchen",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Bozeman",
+        "state": "MT",
+        "person": "Linda Huang",
+        "lat": 45.6638043,
+        "lon": -111.0582088
+    },
+    {
+        "restaurant": "Sitti's Table",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Cody",
+        "state": "WY",
+        "person": "Porter Koury and Jacob Scott",
+        "lat": 44.5265603,
+        "lon": -109.0618631
+    },
+    {
+        "restaurant": "Molotov Kitschen + Cocktails",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Denver",
+        "state": "CO",
+        "person": "Bo Porytko",
+        "lat": 39.740313,
+        "lon": -104.9480345
+    },
+    {
+        "restaurant": "Coperta",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Denver",
+        "state": "CO",
+        "person": "Paul C. Reilly",
+        "lat": 39.7474144,
+        "lon": -104.9821166
+    },
+    {
+        "restaurant": "Blackbelly",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Boulder",
+        "state": "CO",
+        "person": "Hosea Rosenberg",
+        "lat": 40.015042,
+        "lon": -105.2273022
+    },
+    {
+        "restaurant": "Walkers Grill",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Billings",
+        "state": "MT",
+        "person": "Nick Steen Gullings and John Baldwin",
+        "lat": 45.7824592,
+        "lon": -108.50464
+    },
+    {
+        "restaurant": "MAKfam",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Denver",
+        "state": "CO",
+        "person": "Kenneth Wan",
+        "lat": 39.71855679999999,
+        "lon": -104.98805
+    },
+    {
+        "restaurant": "The Tasting Room at Chico Hot Springs Resort & Day Spa",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Pray",
+        "state": "MT",
+        "person": "David Wells",
+        "lat": 45.3388861,
+        "lon": -110.6916503
+    },
+    {
+        "restaurant": "Yuan Wonton",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Denver",
+        "state": "CO",
+        "person": "Penelope Wong",
+        "lat": 39.7578836,
+        "lon": -104.9281038
+    },
+    {
+        "restaurant": "Urban Hill",
+        "year": "2025",
+        "category": "Best Chef: Mountain (CO, ID, MT, UT, WY)",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "person": "Nick Zocco",
+        "lat": 40.7581958,
+        "lon": -111.9004448
+    },
+    {
+        "restaurant": "Hav & Mar",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "New York",
+        "state": "NY",
+        "person": "Fariyal Abdullahi",
+        "lat": 40.7510904,
+        "lon": -74.0056714
+    },
+    {
+        "restaurant": "Sofreh",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "Brooklyn",
+        "state": "NY",
+        "person": "Nasim Alikhani",
+        "lat": 40.679912,
+        "lon": -73.9739714
+    },
+    {
+        "restaurant": "Dept of Culture",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "Brooklyn",
+        "state": "NY",
+        "person": "Ayo Balogun",
+        "lat": 40.6871918,
+        "lon": -73.9507828
+    },
+    {
+        "restaurant": "Carnitas Ramirez",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "New York",
+        "state": "NY",
+        "person": "Giovanni Cervantes",
+        "lat": 40.7224688,
+        "lon": -73.9827999
+    },
+    {
+        "restaurant": "Francie",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "Brooklyn",
+        "state": "NY",
+        "person": "Chris Cipollone",
+        "lat": 40.7101864,
+        "lon": -73.9640186
+    },
+    {
+        "restaurant": "Lola's",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "New York",
+        "state": "NY",
+        "person": "Suzanne Cupps",
+        "lat": 40.7448032,
+        "lon": -73.9878205
+    },
+    {
+        "restaurant": "Stissing House",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "Pine Plains",
+        "state": "NY",
+        "person": "Clare de Boer",
+        "lat": 41.9795121,
+        "lon": -73.6564422
+    },
+    {
+        "restaurant": "Gramercy Tavern",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "New York",
+        "state": "NY",
+        "person": "Aretah Ettarh",
+        "lat": 40.7384555,
+        "lon": -73.98850639999999
+    },
+    {
+        "restaurant": "Southern Junction",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "Buffalo",
+        "state": "NY",
+        "person": "Ryan Fernandez",
+        "lat": 42.9058586,
+        "lon": -78.887294
+    },
+    {
+        "restaurant": "Koloman",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "New York",
+        "state": "NY",
+        "person": "Markus Glocker",
+        "lat": 40.7456687,
+        "lon": -73.9880941
+    },
+    {
+        "restaurant": "Casa Susanna",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "Leeds",
+        "state": "NY",
+        "person": "Efr\u00e9n Hern\u00e1ndez",
+        "lat": 42.2503276,
+        "lon": -73.8886741
+    },
+    {
+        "restaurant": "Ichimura",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "New York",
+        "state": "NY",
+        "person": "Eiji Ichimura",
+        "lat": 40.7218848,
+        "lon": -74.0099346
+    },
+    {
+        "restaurant": "Oiji Mi",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "New York",
+        "state": "NY",
+        "person": "Brian Kim",
+        "lat": 40.7396687,
+        "lon": -73.9924795
+    },
+    {
+        "restaurant": "Meju",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "Queens",
+        "state": "NY",
+        "person": "Hooni Kim",
+        "lat": 40.7435222,
+        "lon": -73.9552482
+    },
+    {
+        "restaurant": "Kono",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "New York",
+        "state": "NY",
+        "person": "Atsushi Kono",
+        "lat": 40.7157464,
+        "lon": -73.9969395
+    },
+    {
+        "restaurant": "Semma",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "New York",
+        "state": "NY",
+        "person": "Vijay Kumar",
+        "lat": 40.7360304,
+        "lon": -74.0005639
+    },
+    {
+        "restaurant": "Caf\u00e9 Mutton",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "Hudson",
+        "state": "NY",
+        "person": "Shaina Loew-Banayan",
+        "lat": 42.2471202,
+        "lon": -73.78039749999999
+    },
+    {
+        "restaurant": "Tatiana",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "New York",
+        "state": "NY",
+        "person": "Kwame Onwuachi",
+        "lat": 40.77278620000001,
+        "lon": -73.983104
+    },
+    {
+        "restaurant": "Ci Siamo",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "New York",
+        "state": "NY",
+        "person": "Hillary Sterling",
+        "lat": 40.7526152,
+        "lon": -73.9989141
+    },
+    {
+        "restaurant": "Lingo",
+        "year": "2025",
+        "category": "Best Chef: New York State",
+        "city": "Brooklyn",
+        "state": "NY",
+        "person": "Emily Yuen",
+        "lat": 40.7298614,
+        "lon": -73.9597307
+    },
+    {
+        "restaurant": "Pizza Marvin",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Providence",
+        "state": "RI",
+        "person": "Robert Andreozzi",
+        "lat": 41.8204346,
+        "lon": -71.3938124
+    },
+    {
+        "restaurant": "May Day",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Burlington",
+        "state": "VT",
+        "person": "Avery Buck",
+        "lat": 44.4869578,
+        "lon": -73.2086626
+    },
+    {
+        "restaurant": "Chickadee",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Boston",
+        "state": "MA",
+        "person": "John DaSilva",
+        "lat": 42.3443806,
+        "lon": -71.0311389
+    },
+    {
+        "restaurant": "Tallula",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Cambridge",
+        "state": "MA",
+        "person": "Conor Dennehy",
+        "lat": 42.3837571,
+        "lon": -71.134384
+    },
+    {
+        "restaurant": "Jahunger",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Providence",
+        "state": "RI",
+        "person": "Subat Dilmurat",
+        "lat": 41.8194556,
+        "lon": -71.3964929
+    },
+    {
+        "restaurant": "Otis Restaurant",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Exeter",
+        "state": "NH",
+        "person": "Lee Frank",
+        "lat": 42.9811089,
+        "lon": -70.94606619999999
+    },
+    {
+        "restaurant": "Allium Eatery",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Westport",
+        "state": "CT",
+        "person": "Michelle Greenfield",
+        "lat": 41.1190978,
+        "lon": -73.3714914
+    },
+    {
+        "restaurant": "Gift Horse",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Providence",
+        "state": "RI",
+        "person": "Sky Haneul Kim",
+        "lat": 41.822418,
+        "lon": -71.4130687
+    },
+    {
+        "restaurant": "Black Cat",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Jamaica Plain",
+        "state": "MA",
+        "person": "Valentine Howell",
+        "lat": 42.3132414,
+        "lon": -71.1141118
+    },
+    {
+        "restaurant": "Comfort Kitchen",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Boston",
+        "state": "MA",
+        "person": "Kwasi Kwaa",
+        "lat": 42.3174634,
+        "lon": -71.0640533
+    },
+    {
+        "restaurant": "The Cottage",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Westport",
+        "state": "CT",
+        "person": "Brian Lewis",
+        "lat": 41.1408856,
+        "lon": -73.3567119
+    },
+    {
+        "restaurant": "Canteen Creemee",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Waitsfield",
+        "state": "VT",
+        "person": "Charlie Menard",
+        "lat": 44.1843598,
+        "lon": -72.834873
+    },
+    {
+        "restaurant": "Nightshade Noodle Bar",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Lynn",
+        "state": "MA",
+        "person": "Rachel Miller",
+        "lat": 42.4632296,
+        "lon": -70.9421809
+    },
+    {
+        "restaurant": "Urban Hearth",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Cambridge",
+        "state": "MA",
+        "person": "Erin Miller",
+        "lat": 42.394536,
+        "lon": -71.1266854
+    },
+    {
+        "restaurant": "Stalk",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Dover",
+        "state": "NH",
+        "person": "Nicole Nocella",
+        "lat": 43.193436,
+        "lon": -70.8743282
+    },
+    {
+        "restaurant": "Honeybird Kitchen & Cocktails",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "East Providence",
+        "state": "RI",
+        "person": "Nick Rabar",
+        "lat": 41.82956739999999,
+        "lon": -71.36995999999999
+    },
+    {
+        "restaurant": "Mr. Tuna",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Portland",
+        "state": "ME",
+        "person": "Jordan Rubin",
+        "lat": 43.6595831,
+        "lon": -70.25152369999999
+    },
+    {
+        "restaurant": "Select Oyster",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Boston",
+        "state": "MA",
+        "person": "Michael Serpa",
+        "lat": 42.3485887,
+        "lon": -71.0841083
+    },
+    {
+        "restaurant": "Leeward",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Portland",
+        "state": "ME",
+        "person": "Jake Stevens",
+        "lat": 43.6555297,
+        "lon": -70.26029969999999
+    },
+    {
+        "restaurant": "Nicks on Broadway",
+        "year": "2025",
+        "category": "Best Chef: Northeast (CT, MA, ME, NH, RI, VT)",
+        "city": "Providence",
+        "state": "RI",
+        "person": "Derek Wagner",
+        "lat": 41.8183355,
+        "lon": -71.4348182
+    },
+    {
+        "restaurant": "Pancita",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Seattle",
+        "state": "WA",
+        "person": "Janet Becerra",
+        "lat": 47.6686532,
+        "lon": -122.2952771
+    },
+    {
+        "restaurant": "Houlme",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Orcas Island",
+        "state": "WA",
+        "person": "Jay Blackinton",
+        "lat": 48.6944084,
+        "lon": -122.9048643
+    },
+    {
+        "restaurant": "Bar M\u0101ze",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Honolulu",
+        "state": "HI",
+        "person": "Ki Chung",
+        "lat": 21.2991408,
+        "lon": -157.8617086
+    },
+    {
+        "restaurant": "Homer",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Seattle",
+        "state": "WA",
+        "person": "Logan Cox",
+        "lat": 47.5765754,
+        "lon": -122.3101679
+    },
+    {
+        "restaurant": "M\u00c4S",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Ashland",
+        "state": "OR",
+        "person": "Joshua Dorcak",
+        "lat": 42.1969651,
+        "lon": -122.713137
+    },
+    {
+        "restaurant": "Canlis",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Seattle",
+        "state": "WA",
+        "person": "Aisha Ibrahim",
+        "lat": 47.6430933,
+        "lon": -122.3467535
+    },
+    {
+        "restaurant": "Mud Hen Water",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Honolulu",
+        "state": "HI",
+        "person": "Ed Kenney",
+        "lat": 21.2845819,
+        "lon": -157.8021034
+    },
+    {
+        "restaurant": "O'Kims",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Honolulu",
+        "state": "HI",
+        "person": "Hyun Kim",
+        "lat": 21.3108835,
+        "lon": -157.8626325
+    },
+    {
+        "restaurant": "The Cookery",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Seward",
+        "state": "AK",
+        "person": "Kevin Lane",
+        "lat": 60.1014932,
+        "lon": -149.4390948
+    },
+    {
+        "restaurant": "The Pig and the Lady",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Honolulu",
+        "state": "HI",
+        "person": "Andrew Le",
+        "lat": 21.3114579,
+        "lon": -157.8635409
+    },
+    {
+        "restaurant": "Yardy Rum Bar",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Eugene",
+        "state": "OR",
+        "person": "Isaiah Martinez",
+        "lat": 44.0505313,
+        "lon": -123.0970938
+    },
+    {
+        "restaurant": "Gado Gado",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Portland",
+        "state": "OR",
+        "person": "Thomas Pisha-Duffly",
+        "lat": 45.5358448,
+        "lon": -122.6233036
+    },
+    {
+        "restaurant": "Nodoguro",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Portland",
+        "state": "OR",
+        "person": "Ryan Roadhouse",
+        "lat": 45.5276237,
+        "lon": -122.6426827
+    },
+    {
+        "restaurant": "Humble Spirit",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "McMinnville",
+        "state": "OR",
+        "person": "Sarah Schafer",
+        "lat": 45.2101301,
+        "lon": -123.1953514
+    },
+    {
+        "restaurant": "In Bocca Al Lupo",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Juneau",
+        "state": "AK",
+        "person": "Beau Schooler",
+        "lat": 58.30117370000001,
+        "lon": -134.4089066
+    },
+    {
+        "restaurant": "Hayward",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "McMinnville",
+        "state": "OR",
+        "person": "Kari Shaughnessy",
+        "lat": 45.2152541,
+        "lon": -123.185841
+    },
+    {
+        "restaurant": "Tiffany's",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Wailuku",
+        "state": "HI",
+        "person": "Sheldon Simeon",
+        "lat": 20.8948392,
+        "lon": -156.49362
+    },
+    {
+        "restaurant": "Takai by Kashiba",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Bellevue",
+        "state": "WA",
+        "person": "Jun Takai",
+        "lat": 47.61156829999999,
+        "lon": -122.2012879
+    },
+    {
+        "restaurant": "Antica Terra",
+        "year": "2025",
+        "category": "Best Chef: Northwest & Pacific (AK, HI, OR, WA)",
+        "city": "Amity",
+        "state": "OR",
+        "person": "Timothy Wastell",
+        "lat": 45.1196888,
+        "lon": -123.1832317
+    },
+    {
+        "restaurant": "Roux 30a",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Santa Rosa Beach",
+        "state": "FL",
+        "person": "Nikhil Abuvala",
+        "lat": 30.3406083,
+        "lon": -86.16677279999999
+    },
+    {
+        "restaurant": "Alma Cafe",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "New Orleans",
+        "state": "LA",
+        "person": "Melissa Araujo",
+        "lat": 29.9641701,
+        "lon": -90.04357660000001
+    },
+    {
+        "restaurant": "Acre",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Auburn",
+        "state": "AL",
+        "person": "David Bancroft",
+        "lat": 32.6088213,
+        "lon": -85.47896759999999
+    },
+    {
+        "restaurant": "Laura's II",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Lafayette",
+        "state": "LA",
+        "person": "Madonna Broussard",
+        "lat": 30.2307794,
+        "lon": -92.0310646
+    },
+    {
+        "restaurant": "Acamaya",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "New Orleans",
+        "state": "LA",
+        "person": "Ana Castro",
+        "lat": 29.9644905,
+        "lon": -90.04567550000002
+    },
+    {
+        "restaurant": "Itamae AO",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Miami",
+        "state": "FL",
+        "person": "Nando Chang",
+        "lat": 25.8071992,
+        "lon": -80.192889
+    },
+    {
+        "restaurant": "Conifer",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Bentonville",
+        "state": "AR",
+        "person": "Matthew Cooper",
+        "lat": 36.3721731,
+        "lon": -94.20522129999999
+    },
+    {
+        "restaurant": "Elvie's",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Jackson",
+        "state": "MS",
+        "person": "Hunter Evans",
+        "lat": 32.3139122,
+        "lon": -90.175551
+    },
+    {
+        "restaurant": "La Faena AgroCocina",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Guaynabo",
+        "state": "PR",
+        "person": "Kevin Garcia",
+        "lat": 18.3045281,
+        "lon": -66.1055138
+    },
+    {
+        "restaurant": "Verde Mesa",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "San Juan",
+        "state": "PR",
+        "person": "Gabriel Hernandez",
+        "lat": 18.4640101,
+        "lon": -66.1170581
+    },
+    {
+        "restaurant": "Kaya",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Orlando",
+        "state": "FL",
+        "person": "Lordfer Lalicon",
+        "lat": 28.5520128,
+        "lon": -81.36574069999999
+    },
+    {
+        "restaurant": "P\u00eache Seafood Grill",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "New Orleans",
+        "state": "LA",
+        "person": "Nicole Cabrera Mills",
+        "lat": 29.9452145,
+        "lon": -90.0691312
+    },
+    {
+        "restaurant": "El Gallo Pinto",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Guayama",
+        "state": "PR",
+        "person": "Angel David Moreno Zayas",
+        "lat": 17.9842108,
+        "lon": -66.11461299999999
+    },
+    {
+        "restaurant": "Domu",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Orlando",
+        "state": "FL",
+        "person": "Sean \"Sonny\" Nguyen",
+        "lat": 28.4527645,
+        "lon": -81.4899322
+    },
+    {
+        "restaurant": "B\u00f3veda",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "San Juan",
+        "state": "PR",
+        "person": "Carol Reyes",
+        "lat": 18.4266886,
+        "lon": -66.0581768
+    },
+    {
+        "restaurant": "Red or White",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Mobile",
+        "state": "AL",
+        "person": "Arwen Rice",
+        "lat": 30.6877544,
+        "lon": -88.06096989999999
+    },
+    {
+        "restaurant": "Yeyo's El Alma de Mexico",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Bentonville",
+        "state": "AR",
+        "person": "Rafael Rios",
+        "lat": 36.3653363,
+        "lon": -94.2001993
+    },
+    {
+        "restaurant": "White Pillars",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Biloxi",
+        "state": "MS",
+        "person": "Tresse Sumrall and Austin Sumrall",
+        "lat": 30.3941726,
+        "lon": -88.9382708
+    },
+    {
+        "restaurant": "Saffron Nola",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "New Orleans",
+        "state": "LA",
+        "person": "Arvinder\u00a0Vilkhu and Ashwin Vilkhu",
+        "lat": 29.9209326,
+        "lon": -90.0988019
+    },
+    {
+        "restaurant": "Wright's Barbecue",
+        "year": "2025",
+        "category": "Best Chef: South (AL, AR, FL, LA, MS, PR)",
+        "city": "Johnson",
+        "state": "AR",
+        "person": "Jordan Wright",
+        "lat": 36.1337739,
+        "lon": -94.1577583
+    },
+    {
+        "restaurant": "Acre",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Memphis",
+        "state": "TN",
+        "person": "Andrew Adams and Wally Joe",
+        "lat": 35.112373,
+        "lon": -89.90720910000002
+    },
+    {
+        "restaurant": "MeeshMeesh Mediterranean",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Louisville",
+        "state": "KY",
+        "person": "Noam Bilitzer",
+        "lat": 38.2532221,
+        "lon": -85.74040509999999
+    },
+    {
+        "restaurant": "Freight House",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Paducah",
+        "state": "KY",
+        "person": "Sara Bradley",
+        "lat": 37.0844154,
+        "lon": -88.59471889999999
+    },
+    {
+        "restaurant": "Common Thread",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Savannah",
+        "state": "GA",
+        "person": "Brandon Carter and Joseph Harrison",
+        "lat": 32.0568305,
+        "lon": -81.0980242
+    },
+    {
+        "restaurant": "Ristorante Abruzzi",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Charleston",
+        "state": "WV",
+        "person": "Chase Collier",
+        "lat": 38.3480923,
+        "lon": -81.6250666
+    },
+    {
+        "restaurant": "Restaurant Constance",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Charlotte",
+        "state": "NC",
+        "person": "Sam Diminich",
+        "lat": 35.2339515,
+        "lon": -80.8729705
+    },
+    {
+        "restaurant": "Olivero",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Wilmington",
+        "state": "NC",
+        "person": "Sunny Gerhart and Lauren Krall Ivey",
+        "lat": 34.2281565,
+        "lon": -77.94537609999999
+    },
+    {
+        "restaurant": "Ma\u00edz de la Vida",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Nashville",
+        "state": "TN",
+        "person": "Julio Hernandez",
+        "lat": 36.1825636,
+        "lon": -86.7485344
+    },
+    {
+        "restaurant": "Peninsula",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Nashville",
+        "state": "TN",
+        "person": "Jake Howell",
+        "lat": 36.1529616,
+        "lon": -86.5914519
+    },
+    {
+        "restaurant": "Neng Jr.'s",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Asheville",
+        "state": "NC",
+        "person": "Silver Iocovozzi",
+        "lat": 35.5778279,
+        "lon": -82.59188069999999
+    },
+    {
+        "restaurant": "Community Matters Cafe",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Charlotte",
+        "state": "NC",
+        "person": "Chayil Johnson",
+        "lat": 35.2293334,
+        "lon": -80.8551835
+    },
+    {
+        "restaurant": "Talat Market",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Atlanta",
+        "state": "GA",
+        "person": "Rod Lassiter and Parnass Savang",
+        "lat": 33.7317984,
+        "lon": -84.3839782
+    },
+    {
+        "restaurant": "BoccaLupo",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Atlanta",
+        "state": "GA",
+        "person": "Bruce Logue",
+        "lat": 33.7546962,
+        "lon": -84.36276269999999
+    },
+    {
+        "restaurant": "Prime Barbecue",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Knightdale",
+        "state": "NC",
+        "person": "Christopher Prieto",
+        "lat": 35.7970823,
+        "lon": -78.47351859999999
+    },
+    {
+        "restaurant": "City Limits Barbeque",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "West Columbia",
+        "state": "SC",
+        "person": "Robbie Robinson",
+        "lat": 33.9801453,
+        "lon": -81.1181318
+    },
+    {
+        "restaurant": "Blue Honey Bistro",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Germantown",
+        "state": "TN",
+        "person": "Drew Bryan",
+        "lat": 35.06655,
+        "lon": -89.75747229999999
+    },
+    {
+        "restaurant": "Good Hot Fish",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Asheville",
+        "state": "NC",
+        "person": "Ashleigh Shanti",
+        "lat": 35.5883036,
+        "lon": -82.5539636
+    },
+    {
+        "restaurant": "Spring",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Marietta",
+        "state": "GA",
+        "person": "Brian So",
+        "lat": 33.95260200000001,
+        "lon": -84.5499327
+    },
+    {
+        "restaurant": "Noko",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Nashville",
+        "state": "TN",
+        "person": "Dung \"Junior\" Vo",
+        "lat": 36.1826247,
+        "lon": -86.7327921
+    },
+    {
+        "restaurant": "LanZhou Ramen",
+        "year": "2025",
+        "category": "Best Chef: Southeast (GA, KY, NC, SC, TN, WV)",
+        "city": "Doraville",
+        "state": "GA",
+        "person": "Fu Li Zhang",
+        "lat": 33.8948429,
+        "lon": -84.2819667
+    },
+    {
+        "restaurant": "Fait Maison",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Edmond",
+        "state": "OK",
+        "person": "Olivier Bouzerand",
+        "lat": 35.6495018,
+        "lon": -97.4785919
+    },
+    {
+        "restaurant": "Amelia's Mexican Kitchen",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Tucson",
+        "state": "AZ",
+        "person": "Jose Contreras",
+        "lat": 32.2511222,
+        "lon": -110.8737481
+    },
+    {
+        "restaurant": "Milpa",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Las Vegas",
+        "state": "NV",
+        "person": "DJ Flores",
+        "lat": 36.1841009,
+        "lon": -115.3008278
+    },
+    {
+        "restaurant": "Naija Wife Kitchen",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "person": "Tahnee Francis",
+        "lat": 35.4683947,
+        "lon": -97.5169016
+    },
+    {
+        "restaurant": "Valentine",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Phoenix",
+        "state": "AZ",
+        "person": "Donald Hawk",
+        "lat": 33.4959474,
+        "lon": -112.0839291
+    },
+    {
+        "restaurant": "The Larder & The Delta",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Phoenix",
+        "state": "AZ",
+        "person": "Stephen Jones",
+        "lat": 33.4878297,
+        "lon": -112.0314753
+    },
+    {
+        "restaurant": "Beginners Luck",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Scottsdale",
+        "state": "AZ",
+        "person": "Bernie Kantak",
+        "lat": 33.4934977,
+        "lon": -111.9249853
+    },
+    {
+        "restaurant": "Birdie's",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Edmond",
+        "state": "OK",
+        "person": "Kevin Lee",
+        "lat": 35.6240489,
+        "lon": -97.55142790000001
+    },
+    {
+        "restaurant": "Lom Wong",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Phoenix",
+        "state": "AZ",
+        "person": "Yotaka Martin",
+        "lat": 33.4601904,
+        "lon": -112.0704312
+    },
+    {
+        "restaurant": "COURSE",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Scottsdale",
+        "state": "AZ",
+        "person": "Cory Oppold",
+        "lat": 33.4948764,
+        "lon": -111.9216734
+    },
+    {
+        "restaurant": "Sassella",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Santa Fe",
+        "state": "NM",
+        "person": "Cristian Pontiggia",
+        "lat": 35.6892773,
+        "lon": -105.9415537
+    },
+    {
+        "restaurant": "Buen Provecho",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Albuquerque",
+        "state": "NM",
+        "person": "Kattia Rojas",
+        "lat": 35.0940304,
+        "lon": -106.6772803
+    },
+    {
+        "restaurant": "Escondido",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Santa Fe",
+        "state": "NM",
+        "person": "Fernando Ruiz",
+        "lat": 35.6662948,
+        "lon": -105.9907863
+    },
+    {
+        "restaurant": "Level 5",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Albuquerque",
+        "state": "NM",
+        "person": "Sean Sinclair",
+        "lat": 35.1007232,
+        "lon": -106.6677398
+    },
+    {
+        "restaurant": "The Crown",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "person": "Eric Smith",
+        "lat": 35.4135646,
+        "lon": -97.3199728
+    },
+    {
+        "restaurant": "Casa Playa",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Las Vegas",
+        "state": "NV",
+        "person": "Sarah Thompson",
+        "lat": 36.129074,
+        "lon": -115.1659951
+    },
+    {
+        "restaurant": "Double Zero Pie & Pub",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Las Vegas",
+        "state": "NV",
+        "person": "Michael Vakneen",
+        "lat": 36.1261837,
+        "lon": -115.1912022
+    },
+    {
+        "restaurant": "Restaurant de Jo\u00ebl Robuchon",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Las Vegas",
+        "state": "NV",
+        "person": "Eleazar Villanueva",
+        "lat": 36.1020732,
+        "lon": -115.1693921
+    },
+    {
+        "restaurant": "Sedalia's",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "person": "Zack Walters",
+        "lat": 35.4788556,
+        "lon": -97.56266459999999
+    },
+    {
+        "restaurant": "Joseph's Culinary Pub",
+        "year": "2025",
+        "category": "Best Chef: Southwest (AZ, NM, NV, OK)",
+        "city": "Santa Fe",
+        "state": "NM",
+        "person": "Joseph Wrede",
+        "lat": 35.6865167,
+        "lon": -105.9461083
+    },
+    {
+        "restaurant": "Ch\u00f2pnBl\u1ecdk",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Houston",
+        "state": "TX",
+        "person": "Ope Amosu",
+        "lat": 29.7662149,
+        "lon": -95.3648839
+    },
+    {
+        "restaurant": "Uroko",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Austin",
+        "state": "TX",
+        "person": "Tak\u00e9hiro Asazu and Masazumi Saio",
+        "lat": 30.2677157,
+        "lon": -97.69391859999999
+    },
+    {
+        "restaurant": "Belly of the Beast",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Spring",
+        "state": "TX",
+        "person": "Thomas Bille",
+        "lat": 30.0745318,
+        "lon": -95.49830109999999
+    },
+    {
+        "restaurant": "Tatem\u00f3",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Houston",
+        "state": "TX",
+        "person": "Emmanuel Chavez",
+        "lat": 29.8071768,
+        "lon": -95.4606369
+    },
+    {
+        "restaurant": "Stixs & Stone",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "San Antonio",
+        "state": "TX",
+        "person": "Leo Davila",
+        "lat": 29.4852889,
+        "lon": -98.6030528
+    },
+    {
+        "restaurant": "J\u016bn",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Houston",
+        "state": "TX",
+        "person": "Evelyn Garcia and Henry Lu",
+        "lat": 29.8036955,
+        "lon": -95.3936817
+    },
+    {
+        "restaurant": "Cochineal",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Marfa",
+        "state": "Texas",
+        "person": "Alexandra Gates",
+        "lat": 30.308976,
+        "lon": -104.021416
+    },
+    {
+        "restaurant": "Smoke'N Ash BBQ",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Arlington",
+        "state": "TX",
+        "person": "Fasicka Hicks and Patrick Hicks",
+        "lat": 32.6511083,
+        "lon": -97.136175
+    },
+    {
+        "restaurant": "Best Quality Daughter",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "San Antonio",
+        "state": "TX",
+        "person": "Jennifer Hwa Dobbertin",
+        "lat": 29.4414957,
+        "lon": -98.4792238
+    },
+    {
+        "restaurant": "Shiro Japanese Bistro",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "San Antonio",
+        "state": "Texas",
+        "person": "Grey Hwang",
+        "lat": 29.4361033,
+        "lon": -98.4813169
+    },
+    {
+        "restaurant": "LeRoy and Lewis Barbecue",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Austin",
+        "state": "TX",
+        "person": "Evan LeRoy",
+        "lat": 30.2098566,
+        "lon": -97.7873058
+    },
+    {
+        "restaurant": "Xalisko",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "The Woodlands",
+        "state": "TX",
+        "person": "Beatriz Martines",
+        "lat": 30.1670775,
+        "lon": -95.4552574
+    },
+    {
+        "restaurant": "Leche de Tigre",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "San Antonio",
+        "state": "TX",
+        "person": "Emil Oliva",
+        "lat": 29.4074993,
+        "lon": -98.49725719999999
+    },
+    {
+        "restaurant": "Do\u00f1a Maria",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Irving",
+        "state": "TX",
+        "person": "Anais Paniagua and Iris Rojas",
+        "lat": 32.9196407,
+        "lon": -96.95706589999999
+    },
+    {
+        "restaurant": "Chika",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "San Antonio",
+        "state": "TX",
+        "person": "John Ramos and Jonathan Reyes",
+        "lat": 29.4466494,
+        "lon": -98.4813407
+    },
+    {
+        "restaurant": "Pur\u00e9pecha",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Dallas",
+        "state": "TX",
+        "person": "Regino Rojas",
+        "lat": 32.7766642,
+        "lon": -96.79698789999999
+    },
+    {
+        "restaurant": "El Pastor Es Mi Se\u00f1or",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "San Antonio",
+        "state": "TX",
+        "person": "Alex Sarmiento and Brenda Sarmiento",
+        "lat": 29.5241543,
+        "lon": -98.5697845
+    },
+    {
+        "restaurant": "Bordo",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Marfa",
+        "state": "TX",
+        "person": "Michael Anthony Serva",
+        "lat": 30.3064982,
+        "lon": -104.0336509
+    },
+    {
+        "restaurant": "Ishtia",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Kemah",
+        "state": "TX",
+        "person": "David Skinner",
+        "lat": 29.54189079999999,
+        "lon": -95.0189977
+    },
+    {
+        "restaurant": "Le R\u00eave",
+        "year": "2025",
+        "category": "Best Chef: Texas",
+        "city": "Brownsville",
+        "state": "TX",
+        "person": "Eugenio Uribe",
+        "lat": 25.9023315,
+        "lon": -97.4978775
+    }
+]
