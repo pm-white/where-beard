@@ -3,14 +3,16 @@ import requests
 import re
 import googlemaps
 import json
+from dotenv import load_dotenv
+from os import getenv
 
 YEAR = "2025"
 URL = "https://www.jamesbeard.org/blog/the-2025-james-beard-award-semifinalists#"
 
-with open("api_key.txt", "r") as f:
-    api_key = f.read()
+load_dotenv()
+API_KEY = getenv("API_KEY")
 
-gmaps = googlemaps.Client(key=api_key)
+gmaps = googlemaps.Client(key=API_KEY)
 
 r = requests.get(URL)
 soup = BeautifulSoup(r.content, "html.parser")
