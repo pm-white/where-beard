@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+}
+
+body {
+  font: Helvetica, Arial, sans;
+  height: 100%;
+  margin: 0;
+}
+
+#map {
+  height: 100%;
+}
