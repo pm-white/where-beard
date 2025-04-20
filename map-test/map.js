@@ -1,4 +1,6 @@
 async function getGeoJSON(path) {
+  // gets a file from a path and converts the array of objects
+  // into a geoJSON object.
   const file = "../data/2025_semifinalists.json";
   try {
     const response = await fetch(file);
@@ -22,6 +24,8 @@ async function getGeoJSON(path) {
         },
         properties: {
           restaurant: r.restaurant,
+          category: r.category,
+          year: r.year,
         },
       };
       features.push(obj);
@@ -40,7 +44,6 @@ async function getGeoJSON(path) {
 }
 
 const data = await getGeoJSON("../data/2025_semifinalists.json");
-console.log("GeoJSON:", data);
 
 let map = L.map("map").setView([42.34, -71.05], 10);
 
@@ -54,3 +57,29 @@ L.tileLayer(
     ext: "png",
   },
 ).addTo(map);
+
+const pointStyle = {
+  radius: 8,
+  fillColor: "#F46036",
+  color: "white",
+  weight: 1,
+  fillOpacity: 0.8,
+};
+
+L.geoJSON(data, {
+  // add style
+  pointToLayer: function (feature, latlng) {
+    return L.circleMarker(latlng, pointStyle);
+  },
+  // add popup
+  onEachFeature: function (feature, layer) {
+    layer.bindPopup(
+      `
+      <h1>${feature.properties.restaurant}</h1>
+      <p>${feature.properties.category}</p>
+      <p>${feature.properties.year}</p>
+      `,
+      { className: "stylePopup" },
+    );
+  },
+}).addTo(map);
