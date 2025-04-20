@@ -3,11 +3,9 @@ import psycopg
 conn = psycopg.connect("dbname=james_beard user=postgres")
 cur = conn.cursor()
 
-cur.execute("""create table if not exists semifinalists;""")
-
 cur.execute(
     """
-    create table semifinalists (
+    create table if not exists semifinalists (
         restaurant text,
         year smallint,
         category text,
