@@ -2,12 +2,12 @@ import psycopg
 import json
 
 YEAR = 2025
-data_file = f"./data/{YEAR}_semifinalists.json"
+data_file = f"../data/{YEAR}_semifinalists.json"
 
 with open(data_file, "r") as f:
     data = json.load(f)
 
-conn = psycopg.connect("dbname=james_beard_db user=phil")
+conn = psycopg.connect("dbname=james_beard user=postgres")
 cur = conn.cursor()
 
 for item in data:

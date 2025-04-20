@@ -72,5 +72,5 @@ for finalist in soup.find_all(["h4", "li"]):
                 }
             )
 
-with open(f"./data/{YEAR}_semifinalists.json", "w") as f:
+with open(f"./{YEAR}_semifinalists.json", "w") as f:
     json.dump(finalists, f, indent=4)

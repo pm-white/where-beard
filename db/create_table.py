@@ -1,7 +1,10 @@
 import psycopg
 
-conn = psycopg.connect("dbname=james_beard_db user=phil")
+conn = psycopg.connect("dbname=james_beard user=postgres")
 cur = conn.cursor()
+
+cur.execute("""create table if not exists semifinalists;""")
+
 cur.execute(
     """
     create table semifinalists (
