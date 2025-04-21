@@ -1,9 +1,8 @@
 async function getGeoJSON(path) {
   // gets a file from a path and converts the array of objects
   // into a geoJSON object.
-  const file = "../data/2025_semifinalists.json";
   try {
-    const response = await fetch(file);
+    const response = await fetch(path);
     if (!response.ok) {
       throw new Error(`Response status: ${response.status}`);
     }
