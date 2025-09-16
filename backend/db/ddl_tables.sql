@@ -16,5 +16,5 @@ CREATE TABLE IF NOT EXISTS awards (
     category_id int REFERENCES categories(category_id) ON DELETE CASCADE,
     restaurant_id int REFERENCES restaurants(restaurant_id) ON DELETE CASCADE,
     year SMALLINT,
-    PRIMARY KEY (category_id, restaurant_id)
+    PRIMARY KEY (category_id, restaurant_id, year)
 );
