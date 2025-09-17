@@ -1,12 +1,17 @@
 // database connection
-const pgp = require("pg-promise")();
+import pgPromise from "pg-promise";
 
+const pgp = pgPromise();
+
+let db;
 if (process.env.NODE_ENV === "production") {
-  module.exports = pgp(
+  db = pgp(
     `postgres://${process.env.DB_USERNAME}:${process.env.DB_PASSWORD}@${process.env.DB_HOST}:${process.env.DB_PORT}/${process.env.DB_NAME}?sslmode=require`,
   );
 } else {
-  module.exports = pgp(
+  db = pgp(
     `postgres://${process.env.DB_USERNAME}:${process.env.DB_PASSWORD}@${process.env.DB_HOST}:${process.env.DB_PORT}/${process.env.DB_NAME}`,
   );
 }
+
+export default db;

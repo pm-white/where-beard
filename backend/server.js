@@ -1,16 +1,37 @@
-const express = require("express");
-const asyncHandler = require("express-async-handler");
+import express from "express";
+import expressAsyncHandler from "express-async-handler";
+import db from "./db_connection.js";
 
 const app = express();
 const port = 3000;
 
-const db = require("./db_connection");
+app.use(express.json());
 
 app.get(
   "/",
-  asyncHandler(async (req, res) => {
+  expressAsyncHandler(async (req, res) => {
     let d = await db.any("SELECT * FROM categories");
     res.send(d);
+  }),
+);
+
+// returns a list of categories from the db
+app.get(
+  "/api/categories",
+  expressAsyncHandler(async (req, res) => {
+    const d = await db.any("SELECT category FROM categories");
+    const cats = d.map((row) => row.category);
+    res.json(cats);
+  }),
+);
+
+// returns a list of years from the db
+app.get(
+  "/api/years",
+  expressAsyncHandler(async (req, res) => {
+    const d = await db.any("SELECT distinct year FROM awards");
+    const years = d.map((row) => row.year);
+    res.json(years);
   }),
 );
 
