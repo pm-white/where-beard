@@ -1,4 +1,7 @@
-function Sidebar() {
+import YearSelect from "./YearSelect";
+import CategorySelect from "./CategorySelect";
+
+function Sidebar({ categories, years }) {
   return (
     <>
       <h1>James Beard Award Semifinalists</h1>
@@ -7,6 +10,8 @@ function Sidebar() {
         awards. Use the dropdown menus below to filter for an award year or a
         category.
       </p>
+      <YearSelect years={years} />
+      <CategorySelect categories={categories} />
     </>
   );
 }

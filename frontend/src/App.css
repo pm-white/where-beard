@@ -18,6 +18,10 @@
   padding: 1em;
 }
 
+#sidebar-container h1 {
+  color: var(--red);
+}
+
 #map-container {
   background-color: var(--red);
   flex: 3;
