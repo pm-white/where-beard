@@ -1,6 +1,6 @@
-import { MapContainer, TileLayer, Popup, Marker } from "react-leaflet";
+import { MapContainer, TileLayer, Popup, CircleMarker } from "react-leaflet";
 
-function Map() {
+function Map({ points }) {
   return (
     <>
       <MapContainer center={[40.76, -73.97]} zoom={13}>
@@ -10,6 +10,22 @@ function Map() {
           subdomains={"abcd"}
           maxZoom={20}
         />
+        {points.map((point) => (
+          <CircleMarker
+            center={[point.lat, point.lon]}
+            fillOpacity={0.8}
+            radius={8}
+            fillColor="#F46036"
+            color="white"
+            weight={1}
+          >
+            <Popup>
+              <h3>{point.name}</h3>
+              <p>{point.year}</p>
+              <p>{point.category}</p>
+            </Popup>
+          </CircleMarker>
+        ))}
       </MapContainer>
     </>
   );

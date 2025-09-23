@@ -6,6 +6,7 @@ import Sidebar from "./components/Sidebar";
 function App() {
   const [categories, setCategories] = useState([]);
   const [years, setYears] = useState([]);
+  const [points, setPoints] = useState([]);
 
   const loadCategories = async () => {
     const response = await fetch("/api/categories");
@@ -19,9 +20,16 @@ function App() {
     setYears(data);
   };
 
+  const loadPoints = async () => {
+    const response = await fetch("/api/");
+    const data = await response.json();
+    setPoints(data);
+  };
+
   useEffect(() => {
     loadCategories();
     loadYears();
+    loadPoints();
   }, []);
 
   return (
@@ -30,7 +38,7 @@ function App() {
         <Sidebar categories={categories} years={years} />
       </div>
       <div id="map-container">
-        <Map />
+        <Map points={points} />
       </div>
     </>
   );

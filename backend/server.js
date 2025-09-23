@@ -8,10 +8,12 @@ const port = 3000;
 app.use(express.json());
 
 app.get(
-  "/",
+  "/api/",
   expressAsyncHandler(async (req, res) => {
-    let d = await db.any("SELECT * FROM categories");
-    res.send(d);
+    let d = await db.any(
+      "SELECT name, category, year, lat, lon FROM v_semifinalists",
+    );
+    res.json(d);
   }),
 );
 
