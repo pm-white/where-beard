@@ -1,4 +1,4 @@
-import * as React from "react";
+import { useState } from "react";
 import Box from "@mui/material/Box";
 import InputLabel from "@mui/material/InputLabel";
 import MenuItem from "@mui/material/MenuItem";
@@ -6,7 +6,7 @@ import FormControl from "@mui/material/FormControl";
 import Select from "@mui/material/Select";
 
 export default function YearSelect({ years }) {
-  const [year, setYear] = React.useState("");
+  const [year, setYear] = useState("");
 
   const handleChange = (event) => {
     setYear(event.target.value);

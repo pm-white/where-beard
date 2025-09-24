@@ -1,7 +1,7 @@
 import YearSelect from "./YearSelect";
 import CategorySelect from "./CategorySelect";
 
-function Sidebar({ categories, years }) {
+function Sidebar({ categories, years, setCategory, category }) {
   return (
     <>
       <h1>James Beard Award Semifinalists</h1>
@@ -11,7 +11,11 @@ function Sidebar({ categories, years }) {
         category.
       </p>
       <YearSelect years={years} />
-      <CategorySelect categories={categories} />
+      <CategorySelect
+        categories={categories}
+        setCategory={setCategory}
+        category={category}
+      />
     </>
   );
 }
