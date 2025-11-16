@@ -18,14 +18,41 @@ app.get(
   }),
 );
 
-// TODO: allow multiple select filter on category and year
+// all points for selected categories
 app.get(
-  "/api/points/:category",
+  "/api/points/categories/:category/",
   expressAsyncHandler(async (req, res) => {
-    let category = req.params.category;
+    const category = req.params.category;
     let d = await db.any(
-      "SELECT name, category, year, lat, lon FROM v_semifinalists where category = $1",
-      category,
+      "SELECT name, category, year, lat, lon FROM v_semifinalists where category IN ($1:list)",
+      [category.split(",")],
+    );
+    res.json(d);
+  }),
+);
+
+// all points for selected years
+app.get(
+  "/api/points/years/:year/",
+  expressAsyncHandler(async (req, res) => {
+    const year = req.params.year;
+    let d = await db.any(
+      "SELECT name, category, year, lat, lon FROM v_semifinalists where year IN ($1:list)",
+      [year.split(",")],
+    );
+    res.json(d);
+  }),
+);
+
+// all points for selected years and categories
+app.get(
+  "/api/points/:year/:category",
+  expressAsyncHandler(async (req, res) => {
+    const year = req.params.year;
+    const category = req.params.category;
+    let d = await db.any(
+      "SELECT name, category, year, lat, lon FROM v_semifinalists where year IN ($1:list) AND category IN ($2:list)",
+      [year.split(","), category.split(",")],
     );
     res.json(d);
   }),

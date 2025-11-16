@@ -7,7 +7,8 @@ function App() {
   const [categories, setCategories] = useState([]);
   const [years, setYears] = useState([]);
   const [points, setPoints] = useState([]);
-  const [category, setCategory] = useState("");
+  const [category, setCategory] = useState([]);
+  const [year, setYear] = useState([]);
 
   const loadCategories = async () => {
     const response = await fetch("/api/categories");
@@ -21,14 +22,18 @@ function App() {
     setYears(data);
   };
 
-  // TODO: allow multiple select on category and year
   const loadPoints = async () => {
-    let response;
-    if (category === "") {
-      response = await fetch(`/api/points`);
+    let path;
+    if (year.length > 0 && category.length > 0) {
+      path = `/api/points/${year}/${category}`;
+    } else if (year.length > 0 && category.length == 0) {
+      path = `/api/points/years/${year}`;
+    } else if (year.length == 0 && category.length > 0) {
+      path = `/api/points/categories/${category}`;
     } else {
-      response = await fetch(`/api/points/${category}`);
+      path = "/api/points";
     }
+    const response = await fetch(path);
     const data = await response.json();
     setPoints(data);
   };
@@ -40,15 +45,17 @@ function App() {
   }, []);
 
   useEffect(() => {
-    loadPoints(category);
-  }, [category]);
+    loadPoints(category, year);
+  }, [category, year]);
 
   return (
     <>
       <div id="sidebar-container">
         <Sidebar
-          categories={categories}
           years={years}
+          year={year}
+          setYear={setYear}
+          categories={categories}
           category={category}
           setCategory={setCategory}
         />
