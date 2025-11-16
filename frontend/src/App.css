@@ -30,3 +30,29 @@
 .leaflet-container {
   height: 100%;
 }
+
+/* popup box */
+.leaflet-popup .leaflet-popup-content-wrapper {
+  border-radius: 5px;
+  border: 3px solid var(--red);
+  background-color: var(--light-yellow);
+  max-width: 200px;
+}
+
+/* popup tip */
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background-color: var(--red);
+}
+
+.leaflet-popup-content {
+  margin: 1em;
+}
+
+.leaflet-popup-content h3 {
+  margin: 0;
+}
+
+.leaflet-popup-content p {
+  margin: 0.6em 0 0.6em 0;
+}

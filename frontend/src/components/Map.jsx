@@ -21,8 +21,9 @@ function Map({ points }) {
           >
             <Popup>
               <h3>{point.name}</h3>
-              <p>{point.year}</p>
-              <p>{point.category}</p>
+              <p>
+                {point.year} | {point.category}
+              </p>
             </Popup>
           </CircleMarker>
         ))}
