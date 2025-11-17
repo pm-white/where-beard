@@ -4,27 +4,62 @@
   --text: #2c2c2c;
 }
 
-#root {
-  width: 100%;
-  height: 100%;
-  margin: 0 auto;
-  background-color: lightgray;
-  display: flex;
+@media screen and (max-width: 600px) {
+  #root {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #sidebar-container {
+    background-color: var(--light-yellow);
+    flex: 1;
+    padding: 0.4em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #sidebar-container h1 {
+    color: var(--red);
+    font-size: 18px;
+  }
+
+  #map-container {
+    flex: 3;
+    height: 100%;
+  }
+
+  #hide-mobile {
+    display: none;
+  }
 }
 
-#sidebar-container {
-  background-color: var(--light-yellow);
-  flex: 1;
-  padding: 1em;
-}
+@media screen and (min-width: 600px) {
+  #root {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: lightgray;
+    display: flex;
+  }
+  #sidebar-container {
+    background-color: var(--light-yellow);
+    flex: 1;
+    padding: 1em;
+  }
 
-#sidebar-container h1 {
-  color: var(--red);
-}
+  #sidebar-container h1 {
+    color: var(--red);
+  }
 
-#map-container {
-  flex: 3;
-  height: 100%;
+  #map-container {
+    flex: 3;
+    height: 100%;
+  }
 }
 
 .leaflet-container {
