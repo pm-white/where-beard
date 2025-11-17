@@ -25,7 +25,7 @@ app.get(
     const category = req.params.category;
     let d = await db.any(
       "SELECT name, category, year, lat, lon FROM v_semifinalists where category IN ($1:list)",
-      [category.split(",")],
+      [category.split("|")],
     );
     res.json(d);
   }),
@@ -52,7 +52,7 @@ app.get(
     const category = req.params.category;
     let d = await db.any(
       "SELECT name, category, year, lat, lon FROM v_semifinalists where year IN ($1:list) AND category IN ($2:list)",
-      [year.split(","), category.split(",")],
+      [year.split(","), category.split("|")],
     );
     res.json(d);
   }),

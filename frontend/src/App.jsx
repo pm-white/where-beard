@@ -25,11 +25,11 @@ function App() {
   const loadPoints = async () => {
     let path;
     if (year.length > 0 && category.length > 0) {
-      path = `/api/points/${year}/${category}`;
+      path = `/api/points/${year}/${category.join("|")}`;
     } else if (year.length > 0 && category.length == 0) {
       path = `/api/points/years/${year}`;
     } else if (year.length == 0 && category.length > 0) {
-      path = `/api/points/categories/${category}`;
+      path = `/api/points/categories/${category.join("|")}`;
     } else {
       path = "/api/points";
     }
