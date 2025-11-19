@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "dotenvx run -f .env.dev -- nodemon server.js"
+    "dev": "dotenvx run -f .env.dev -- nodemon server.js",
+    "start": "node ./bin/www"
   },
   "keywords": [],
   "author": "",
