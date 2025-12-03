@@ -1,11 +1,13 @@
 import express from "express";
 import expressAsyncHandler from "express-async-handler";
+import cors from "cors";
 import db from "./db_connection.js";
 
 const app = express();
 const port = 3000;
 
 app.use(express.json());
+app.use(cors({ origin: "https://james-beard-map.up.railway.app" }));
 
 // returns all points in the db
 app.get(
