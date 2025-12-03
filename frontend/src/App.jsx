@@ -10,14 +10,17 @@ function App() {
   const [category, setCategory] = useState([]);
   const [year, setYear] = useState([]);
 
+  const url =
+    process.env.NODE_ENV === "production" ? process.env.PROD_BACKEND_URL : "";
+
   const loadCategories = async () => {
-    const response = await fetch("/api/categories");
+    const response = await fetch(`${url}/api/categories`);
     const data = await response.json();
     setCategories(data);
   };
 
   const loadYears = async () => {
-    const response = await fetch("/api/years");
+    const response = await fetch(`${url}/api/years`);
     const data = await response.json();
     setYears(data);
   };
@@ -25,13 +28,13 @@ function App() {
   const loadPoints = async () => {
     let path;
     if (year.length > 0 && category.length > 0) {
-      path = `/api/points/${year}/${category.join("|")}`;
+      path = `${url}/api/points/${year}/${category.join("|")}`;
     } else if (year.length > 0 && category.length == 0) {
-      path = `/api/points/years/${year}`;
+      path = `${url}/api/points/years/${year}`;
     } else if (year.length == 0 && category.length > 0) {
-      path = `/api/points/categories/${category.join("|")}`;
+      path = `${url}/api/points/categories/${category.join("|")}`;
     } else {
-      path = "/api/points";
+      path = `${url}/api/points`;
     }
     const response = await fetch(path);
     const data = await response.json();
