@@ -10,8 +10,7 @@ function App() {
   const [category, setCategory] = useState([]);
   const [year, setYear] = useState([]);
 
-  const url =
-    process.env.NODE_ENV === "production" ? process.env.PROD_BACKEND_URL : "";
+  const url = import.meta.env.PROD ? import.meta.env.VITE_PROD_BACKEND_URL : "";
 
   const loadCategories = async () => {
     const response = await fetch(`${url}/api/categories`);
