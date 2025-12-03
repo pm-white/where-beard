@@ -2,9 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Map</title>
-    <link href="style.css" rel="stylesheet" />
+    <link rel="icon" type="image/svg+xml" href="/dining.svg" />
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -16,9 +14,11 @@
       integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
       crossorigin=""
     ></script>
-    <script type="module" src="map.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>James Beard Award Map</title>
   </head>
   <body>
-    <div id="map"></div>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
