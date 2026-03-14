@@ -1,0 +1,14 @@
+[project]
+name = "data"
+version = "0.1.0"
+description = "Retrieve and store data for the James Beard map"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "black>=26.3.1",
+    "googlemaps>=4.10.0",
+    "psycopg>=3.3.2",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+]

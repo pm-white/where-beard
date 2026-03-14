@@ -9,7 +9,8 @@ CREATE TABLE IF NOT EXISTS restaurants (
 
 CREATE TABLE IF NOT EXISTS categories (
 	category_id serial NOT NULL PRIMARY KEY,
- 	category text NOT NULL UNIQUE
+ 	category text NOT NULL UNIQUE,
+ 	year_added NOT NULL SMALLINT
 );
 
 CREATE TABLE IF NOT EXISTS awards (
