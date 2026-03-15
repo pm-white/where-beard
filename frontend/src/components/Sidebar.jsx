@@ -1,5 +1,4 @@
-import YearSelect from "./YearSelect";
-import CategorySelect from "./CategorySelect";
+import SelectTemplate from "./SelectTemplate";
 
 function Sidebar({ years, year, setYear, categories, setCategory, category }) {
   return (
@@ -10,11 +9,17 @@ function Sidebar({ years, year, setYear, categories, setCategory, category }) {
         awards. Use the dropdown menus below to filter awards by year or
         category. Click on a point to learn about the award.
       </p>
-      <YearSelect years={years} year={year} setYear={setYear} />
-      <CategorySelect
-        categories={categories}
-        setCategory={setCategory}
-        category={category}
+      <SelectTemplate
+        itemOptions={years}
+        setItem={year}
+        setFunction={setYear}
+        label="Year"
+      />
+      <SelectTemplate
+        itemOptions={categories}
+        setItem={category}
+        setFunction={setCategory}
+        label="Category"
       />
     </>
   );

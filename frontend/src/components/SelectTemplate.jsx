@@ -13,34 +13,38 @@ const MenuProps = {
   PaperProps: {
     style: {
       maxHeight: ITEM_HEIGHT * 4.5 + ITEM_PADDING_TOP,
-      width: 460,
     },
   },
 };
 
-export default function CategorySelect({ categories, category, setCategory }) {
+export default function SelectTemplate({
+  itemOptions,
+  setItem,
+  setFunction,
+  label,
+}) {
   const handleChange = (event) => {
-    setCategory(event.target.value);
+    setFunction(event.target.value);
   };
 
   return (
     <div>
       <FormControl sx={{ m: 1, width: 300 }}>
-        <InputLabel id="category-select-label">Category</InputLabel>
+        <InputLabel id="select-label">{label}</InputLabel>
         <Select
-          labelId="category-select-label"
-          id="category-select"
+          labelId="select-label"
+          id="select"
           multiple
-          value={category}
+          value={setItem}
           onChange={handleChange}
-          input={<OutlinedInput label="Category" />}
+          input={<OutlinedInput label={label} />}
           renderValue={(selected) => selected.join(", ")}
           MenuProps={MenuProps}
         >
-          {categories.map((cat, i) => (
-            <MenuItem key={i} value={cat}>
-              <Checkbox checked={category.includes(cat)} />
-              <ListItemText primary={cat} />
+          {itemOptions.map((item, i) => (
+            <MenuItem key={i} value={item}>
+              <Checkbox checked={setItem.includes(item)} />
+              <ListItemText primary={item} />
             </MenuItem>
           ))}
         </Select>
