@@ -1,6 +1,7 @@
-import { MapContainer, TileLayer, Popup, CircleMarker } from "react-leaflet";
+import { MapContainer, TileLayer, CircleMarker } from "react-leaflet";
+import PopupContainer from "./PopupContainer";
 
-function Map({ points }) {
+function Map({ points, url }) {
   return (
     <>
       <MapContainer center={[40.76, -73.97]} zoom={13}>
@@ -19,12 +20,7 @@ function Map({ points }) {
             color="white"
             weight={1}
           >
-            <Popup>
-              <h3>{point.name}</h3>
-              <p>
-                {point.year} | {point.category}
-              </p>
-            </Popup>
+            <PopupContainer restaurant_id={point.restaurant_id} url={url} />
           </CircleMarker>
         ))}
       </MapContainer>

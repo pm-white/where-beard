@@ -29,7 +29,7 @@ function App() {
     if (year.length > 0 && category.length > 0) {
       path = `${url}/api/points/${year}/${category.join("|")}`;
     } else if (year.length > 0 && category.length == 0) {
-      path = `${url}/api/points/years/${year}`;
+      path = `${url}/api/points/years/${year.join(",")}`;
     } else if (year.length == 0 && category.length > 0) {
       path = `${url}/api/points/categories/${category.join("|")}`;
     } else {
@@ -63,7 +63,7 @@ function App() {
         />
       </div>
       <div id="map-container">
-        <Map points={points} />
+        <Map points={points} url={url} />
       </div>
     </>
   );

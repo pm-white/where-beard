@@ -13,8 +13,38 @@ app.use(cors({ origin: "https://james-beard-map.up.railway.app" }));
 app.get(
   "/api/points",
   expressAsyncHandler(async (req, res) => {
+    let d = await db.any("select restaurant_id, lat, lon from restaurants");
+    res.json(d);
+  }),
+);
+
+// get the awards for a selected restaurant
+app.get(
+  "/api/awards/:restaurant_id",
+  expressAsyncHandler(async (req, res) => {
+    const id = req.params.restaurant_id;
     let d = await db.any(
-      "SELECT name, category, year, lat, lon FROM v_semifinalists",
+      `
+      select a.year, c.category
+      from awards a
+      join categories c on c.category_id = a.category_id
+      where a.restaurant_id = $1
+      order by year, category
+      `,
+      [id],
+    );
+    res.json(d);
+  }),
+);
+
+// get the name of the selected restaurant
+app.get(
+  "/api/name/:restaurant_id",
+  expressAsyncHandler(async (req, res) => {
+    const id = req.params.restaurant_id;
+    let d = await db.one(
+      "select name from restaurants where restaurant_id = $1",
+      [id],
     );
     res.json(d);
   }),
@@ -22,11 +52,17 @@ app.get(
 
 // all points for selected categories
 app.get(
-  "/api/points/categories/:category/",
+  "/api/points/categories/:category",
   expressAsyncHandler(async (req, res) => {
     const category = req.params.category;
     let d = await db.any(
-      "SELECT name, category, year, lat, lon FROM v_semifinalists where category IN ($1:list)",
+      `
+      select distinct r.restaurant_id, r.lat, r.lon
+      from restaurants r
+      join awards a on a.restaurant_id = r.restaurant_id
+      join categories c on c.category_id = a.category_id
+      where c.category in ($1:list)
+      `,
       [category.split("|")],
     );
     res.json(d);
@@ -35,11 +71,16 @@ app.get(
 
 // all points for selected years
 app.get(
-  "/api/points/years/:year/",
+  "/api/points/years/:year",
   expressAsyncHandler(async (req, res) => {
     const year = req.params.year;
     let d = await db.any(
-      "SELECT name, category, year, lat, lon FROM v_semifinalists where year IN ($1:list)",
+      `
+      select distinct r.restaurant_id, r.lat, r.lon
+      from restaurants r
+      join awards a on a.restaurant_id = r.restaurant_id
+      where a.year in ($1:list)
+      `,
       [year.split(",")],
     );
     res.json(d);
@@ -53,7 +94,15 @@ app.get(
     const year = req.params.year;
     const category = req.params.category;
     let d = await db.any(
-      "SELECT name, category, year, lat, lon FROM v_semifinalists where year IN ($1:list) AND category IN ($2:list)",
+      `
+      select distinct r.restaurant_id, r.lat, r.lon
+      from restaurants r
+      join awards a on a.restaurant_id = r.restaurant_id
+      join categories c on c.category_id = a.category_id
+      where
+        a.year in ($1:list) and
+        c.category in ($2:list)
+      `,
       [year.split(","), category.split("|")],
     );
     res.json(d);
