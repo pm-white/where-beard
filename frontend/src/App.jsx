@@ -7,6 +7,7 @@ function App() {
   const [categories, setCategories] = useState([]);
   const [years, setYears] = useState([]);
   const [points, setPoints] = useState([]);
+  const [awards, setAwards] = useState([]);
   const [category, setCategory] = useState([]);
   const [year, setYear] = useState([]);
 
@@ -25,19 +26,10 @@ function App() {
   };
 
   const loadPoints = async () => {
-    let path;
-    if (year.length > 0 && category.length > 0) {
-      path = `${url}/api/points/${year}/${category.join("|")}`;
-    } else if (year.length > 0 && category.length == 0) {
-      path = `${url}/api/points/years/${year.join(",")}`;
-    } else if (year.length == 0 && category.length > 0) {
-      path = `${url}/api/points/categories/${category.join("|")}`;
-    } else {
-      path = `${url}/api/points`;
-    }
-    const response = await fetch(path);
+    const response = await fetch(`${url}/api/points`);
     const data = await response.json();
-    setPoints(data);
+    setPoints(data.restaurants);
+    setAwards(data.awards);
   };
 
   useEffect(() => {
@@ -46,9 +38,35 @@ function App() {
     loadPoints();
   }, []);
 
-  useEffect(() => {
-    loadPoints(category, year);
-  }, [category, year]);
+  function filterPoints() {
+    const rest_ids = new Set();
+
+    const numYrs = year.length;
+    const numCats = category.length;
+    if (numYrs > 0 && numCats === 0) {
+      awards.forEach((award) => {
+        if (year.includes(award.year)) {
+          rest_ids.add(award.restaurant_id);
+        }
+      });
+    } else if (numYrs === 0 && numCats > 0) {
+      awards.forEach((award) => {
+        if (category.includes(award.category)) {
+          rest_ids.add(award.restaurant_id);
+        }
+      });
+    } else if (numYrs > 0 && numCats > 0) {
+      awards.forEach((award) => {
+        if (year.includes(award.year) && category.includes(award.category)) {
+          rest_ids.add(award.restaurant_id);
+        }
+      });
+    } else {
+      return points;
+    }
+
+    return points.filter((pt) => rest_ids.has(pt.restaurant_id));
+  }
 
   return (
     <>
@@ -63,7 +81,7 @@ function App() {
         />
       </div>
       <div id="map-container">
-        <Map points={points} url={url} />
+        <Map points={filterPoints()} awards={awards} />
       </div>
     </>
   );
