@@ -12,24 +12,27 @@ function Map({ points, awards }) {
           subdomains={"abcd"}
           maxZoom={20}
         />
-        {points.map((point) => (
-          <CircleMarker
-            key={point.restaurant_id}
-            center={[point.lat, point.lon]}
-            fillOpacity={0.8}
-            radius={8}
-            fillColor="#F46036"
-            color="white"
-            weight={1}
-          >
-            <PopupContainer
-              selectedPoint={point}
-              filteredAwards={awards.filter(
-                (award) => award.restaurant_id === point.restaurant_id,
-              )}
-            />
-          </CircleMarker>
-        ))}
+        {points.map((point) => {
+          const filteredAwards = awards.filter(
+            (award) => award.restaurant_id === point.restaurant_id,
+          );
+          return (
+            <CircleMarker
+              key={point.restaurant_id}
+              center={[point.lat, point.lon]}
+              fillOpacity={0.8}
+              radius={8}
+              fillColor={filteredAwards.length > 1 ? "#639FAB" : "#F46036"}
+              color="white"
+              weight={1}
+            >
+              <PopupContainer
+                selectedPoint={point}
+                filteredAwards={filteredAwards}
+              />
+            </CircleMarker>
+          );
+        })}
         <ResetMap points={points} />
       </MapContainer>
     </>
