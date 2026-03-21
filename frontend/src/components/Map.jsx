@@ -1,5 +1,6 @@
-import { MapContainer, TileLayer, CircleMarker } from "react-leaflet";
+import { MapContainer, TileLayer, CircleMarker, useMap } from "react-leaflet";
 import PopupContainer from "./PopupContainer";
+import ResetMap from "./ResetMap";
 
 function Map({ points, awards }) {
   return (
@@ -29,6 +30,7 @@ function Map({ points, awards }) {
             />
           </CircleMarker>
         ))}
+        <ResetMap points={points} />
       </MapContainer>
     </>
   );
