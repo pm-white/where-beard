@@ -21,6 +21,16 @@ function Sidebar({ years, year, setYear, categories, setCategory, category }) {
         setFunction={setCategory}
         label="Category"
       />
+      <div id="map-legend">
+        <span id="map-legend-item">
+          <span className="dotSingle"></span>
+          <p>One award</p>
+        </span>
+        <span id="map-legend-item">
+          <span className="dotMulti"></span>
+          <p>Multiple awards</p>
+        </span>
+      </div>
     </>
   );
 }

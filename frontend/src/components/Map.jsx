@@ -1,7 +1,8 @@
-import { MapContainer, TileLayer, CircleMarker } from "react-leaflet";
+import { MapContainer, TileLayer, CircleMarker, useMap } from "react-leaflet";
 import PopupContainer from "./PopupContainer";
+import ResetMap from "./ResetMap";
 
-function Map({ points, url }) {
+function Map({ points, awards }) {
   return (
     <>
       <MapContainer center={[40.76, -73.97]} zoom={13}>
@@ -11,18 +12,28 @@ function Map({ points, url }) {
           subdomains={"abcd"}
           maxZoom={20}
         />
-        {points.map((point) => (
-          <CircleMarker
-            center={[point.lat, point.lon]}
-            fillOpacity={0.8}
-            radius={8}
-            fillColor="#F46036"
-            color="white"
-            weight={1}
-          >
-            <PopupContainer restaurant_id={point.restaurant_id} url={url} />
-          </CircleMarker>
-        ))}
+        {points.map((point) => {
+          const filteredAwards = awards.filter(
+            (award) => award.restaurant_id === point.restaurant_id,
+          );
+          return (
+            <CircleMarker
+              key={point.restaurant_id}
+              center={[point.lat, point.lon]}
+              fillOpacity={0.8}
+              radius={8}
+              fillColor={filteredAwards.length > 1 ? "#639FAB" : "#F46036"}
+              color="white"
+              weight={1}
+            >
+              <PopupContainer
+                selectedPoint={point}
+                filteredAwards={filteredAwards}
+              />
+            </CircleMarker>
+          );
+        })}
+        <ResetMap points={points} />
       </MapContainer>
     </>
   );
