@@ -3,6 +3,8 @@
   --light-yellow: #fefbeb;
   --blue: #639fab;
   --text: #2c2c2c;
+  --circle-size-sm: 15px;
+  --circle-size-lg: 22px;
 }
 
 @media screen and (max-width: 600px) {
@@ -54,16 +56,17 @@
   }
 
   .dotSingle {
-    height: 15px;
-    width: 15px;
+    height: var(--circle-size-sm);
+    width: var(--circle-size-sm);
     background-color: var(--red);
     border-radius: 50%;
+    border: 2px solid white;
     display: inline-block;
   }
 
   .dotMulti {
-    height: 15px;
-    width: 15px;
+    height: var(--circle-size-sm);
+    width: var(--circle-size-sm);
     background-color: var(--blue);
     border-radius: 50%;
     border: 2px solid white;
@@ -110,16 +113,17 @@
   }
 
   .dotSingle {
-    height: 22px;
-    width: 22px;
+    height: var(--circle-size-lg);
+    width: var(--circle-size-lg);
     background-color: var(--red);
     border-radius: 50%;
+    border: 2px solid white;
     display: inline-block;
   }
 
   .dotMulti {
-    height: 22px;
-    width: 22px;
+    height: var(--circle-size-lg);
+    width: var(--circle-size-lg);
     background-color: var(--blue);
     border-radius: 50%;
     border: 2px solid white;
