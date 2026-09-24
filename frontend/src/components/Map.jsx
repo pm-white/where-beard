@@ -3,6 +3,7 @@ import PopupContainer from "./PopupContainer";
 import ResetMap from "./ResetMap";
 
 function Map({ points, awards }) {
+  console.log('API Key:', process.env.REACT_APP_CARTO_API_KEY);
   return (
     <>
       <MapContainer center={[40.76, -73.97]} zoom={13}>
