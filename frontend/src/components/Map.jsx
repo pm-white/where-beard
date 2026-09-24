@@ -3,13 +3,12 @@ import PopupContainer from "./PopupContainer";
 import ResetMap from "./ResetMap";
 
 function Map({ points, awards }) {
-  console.log('API Key:', process.env.REACT_APP_CARTO_API_KEY);
   return (
     <>
       <MapContainer center={[40.76, -73.97]} zoom={13}>
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
-          url={`https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=${process.env.CARTO_API_KEY}`}
+          url={`https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=${import.meta.env.VITE_CARTO_API_KEY}`}
           subdomains={"abcd"}
           maxZoom={20}
         />
