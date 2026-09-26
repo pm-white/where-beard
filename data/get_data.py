@@ -1,9 +1,10 @@
-from bs4 import BeautifulSoup
-import requests
 import re
-import googlemaps
-from dotenv import load_dotenv
 from os import getenv
+
+import googlemaps
+import requests
+from bs4 import BeautifulSoup
+from dotenv import load_dotenv
 
 
 def get_lat_lon(place: str, gmaps_client: googlemaps.Client) -> tuple[float, float]:
